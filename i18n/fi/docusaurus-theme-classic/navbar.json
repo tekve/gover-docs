@@ -8,6 +8,9 @@
   "item.label.Go to App": {
     "message": "Sovellukseen"
   },
+  "item.label.Go to Homepage": {
+    "message": "Etusivulle"
+  },
   "item.label.GitHub": {
     "message": "GitHub"
   },
