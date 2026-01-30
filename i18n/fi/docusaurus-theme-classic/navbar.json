@@ -1,0 +1,17 @@
+{
+  "title": {
+    "message": ""
+  },
+  "item.label.Documentation": {
+    "message": "Dokumentaatio"
+  },
+  "item.label.Go to App": {
+    "message": "Sovellukseen"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub"
+  },
+  "logo.alt": {
+    "message": "Gover Logo"
+  }
+}

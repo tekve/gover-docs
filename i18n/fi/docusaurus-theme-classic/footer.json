@@ -1,0 +1,41 @@
+{
+  "link.title.Documentation": {
+    "message": "Dokumentaatio"
+  },
+  "link.title.Frameworks": {
+    "message": "Viitekehykset"
+  },
+  "link.title.Company": {
+    "message": "Yritys"
+  },
+  "link.item.label.Getting Started": {
+    "message": "Aloitus"
+  },
+  "link.item.label.User Guide": {
+    "message": "Käyttöopas"
+  },
+  "link.item.label.Admin Guide": {
+    "message": "Ylläpito-opas"
+  },
+  "link.item.label.GDPR": {
+    "message": "GDPR"
+  },
+  "link.item.label.ISO 27001": {
+    "message": "ISO 27001"
+  },
+  "link.item.label.NIS2": {
+    "message": "NIS2"
+  },
+  "link.item.label.Gover App": {
+    "message": "Gover-sovellus"
+  },
+  "link.item.label.Tekve": {
+    "message": "Tekve"
+  },
+  "link.item.label.Support": {
+    "message": "Tuki"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 Tekve Oy. Rakennettu Docusauruksella."
+  }
+}

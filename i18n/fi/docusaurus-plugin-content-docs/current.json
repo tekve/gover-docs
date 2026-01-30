@@ -1,0 +1,32 @@
+{
+  "sidebar.docsSidebar.category.Getting Started": {
+    "message": "Aloitus"
+  },
+  "sidebar.docsSidebar.category.User Guide": {
+    "message": "Käyttöopas"
+  },
+  "sidebar.docsSidebar.category.Admin Guide": {
+    "message": "Ylläpito-opas"
+  },
+  "sidebar.docsSidebar.category.Framework Guides": {
+    "message": "Viitekehysoppaat"
+  },
+  "sidebar.docsSidebar.category.Frameworks": {
+    "message": "Viitekehykset"
+  },
+  "sidebar.docsSidebar.category.Controls": {
+    "message": "Kontrollit"
+  },
+  "sidebar.docsSidebar.category.Risks": {
+    "message": "Riskit"
+  },
+  "sidebar.docsSidebar.category.Documents": {
+    "message": "Dokumentit"
+  },
+  "sidebar.docsSidebar.category.Tasks": {
+    "message": "Tehtävät"
+  },
+  "sidebar.docsSidebar.category.AI Assistant": {
+    "message": "AI-avustaja"
+  }
+}

@@ -15,6 +15,10 @@ pnpm start
 
 # Build for production
 pnpm build
+
+# Start Finnish locale
+pnpm start -- --locale fi
+
 ```
 
 ## Structure

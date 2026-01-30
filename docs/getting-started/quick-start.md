@@ -9,7 +9,7 @@ Get up and running with Gover in minutes.
 ## Step 1: Log In
 
 1. Navigate to [app.gover.io](https://app.gover.io)
-2. Sign in with your organization's SSO (Microsoft, Google, or email)
+2. Sign in with your organization's SSO (Microsoft or email, Google coming soon)
 3. Complete MFA verification if enabled
 
 ## Step 2: Select Your Workspace

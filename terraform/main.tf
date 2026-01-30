@@ -67,6 +67,28 @@ resource "aws_acm_certificate" "docs" {
   }
 }
 
+# CloudFront Function for URL rewriting (append index.html to directory paths)
+resource "aws_cloudfront_function" "url_rewrite" {
+  name    = "docs-gover-io-url-rewrite"
+  runtime = "cloudfront-js-2.0"
+  publish = true
+  code    = <<-EOF
+function handler(event) {
+  var request = event.request;
+  var uri = request.uri;
+  
+  // If URI ends with / or has no extension, append index.html
+  if (uri.endsWith('/')) {
+    request.uri += 'index.html';
+  } else if (!uri.includes('.')) {
+    request.uri += '/index.html';
+  }
+  
+  return request;
+}
+EOF
+}
+
 # CloudFront Distribution
 resource "aws_cloudfront_distribution" "docs" {
   enabled             = true
@@ -93,6 +115,11 @@ resource "aws_cloudfront_distribution" "docs" {
       cookies {
         forward = "none"
       }
+    }
+
+    function_association {
+      event_type   = "viewer-request"
+      function_arn = aws_cloudfront_function.url_rewrite.arn
     }
 
     min_ttl     = 0

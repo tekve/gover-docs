@@ -1,36 +1,158 @@
 :root {
   /* Gover Blue - Primary Color */
-  --ifm-color-primary: #2563eb;
-  --ifm-color-primary-dark: #1d4ed8;
-  --ifm-color-primary-darker: #1e40af;
-  --ifm-color-primary-darkest: #1e3a8a;
-  --ifm-color-primary-light: #3b82f6;
-  --ifm-color-primary-lighter: #60a5fa;
-  --ifm-color-primary-lightest: #93c5fd;
+  --ifm-color-primary: #0455ca;
+  --ifm-color-primary-dark: #034cb6;
+  --ifm-color-primary-darker: #0348ac;
+  --ifm-color-primary-darkest: #023b8e;
+  --ifm-color-primary-light: #2173ea;
+  --ifm-color-primary-lighter: #3080ec;
+  --ifm-color-primary-lightest: #5d9bf2;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-button-border-radius: 6px;
   --ifm-navbar-height: 64px;
+  --ifm-font-family-base: "Inter", Helvetica, Arial, sans-serif;
 }
 
-[data-theme='dark'] {
-  --ifm-color-primary: #3b82f6;
-  --ifm-color-primary-dark: #2563eb;
-  --ifm-color-primary-darker: #1d4ed8;
-  --ifm-color-primary-darkest: #1e40af;
-  --ifm-color-primary-light: #60a5fa;
-  --ifm-color-primary-lighter: #93c5fd;
-  --ifm-color-primary-lightest: #bfdbfe;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+[data-theme="dark"] {
+  /* Gover Frontend Dark Mode Colors */
+  --ifm-color-primary: #0455ca; /* Use the deep blue for main UI elements (buttons, heavy accents) */
+  --ifm-color-primary-dark: #002964;
+  --ifm-color-primary-darker: #002964;
+  --ifm-color-primary-darkest: #002964;
+  --ifm-color-primary-light: #95cfff; /* Use lighter blue for hover/text */
+  --ifm-color-primary-lighter: #95cfff;
+  --ifm-color-primary-lightest: #fff;
+
+  --ifm-background-color: #0a0a0a;
+  --ifm-background-surface-color: #0a0a0a;
+
+  --ifm-navbar-background-color: #0a0a0a;
+  --ifm-footer-background-color: #0a0a0a;
+
+  --ifm-color-content: #ffffff;
+  --ifm-color-content-secondary: rgba(255, 255, 255, 0.7);
+  --ifm-color-content-inverse: #000000;
+
+  --ifm-border-color: rgba(255, 255, 255, 0.12);
+  --ifm-scrollbar-track-background-color: #262626;
+  --ifm-scrollbar-thumb-background-color: #616161;
+  --ifm-scrollbar-thumb-hover-background-color: #9e9e9e;
+
+  /* Overrides for cleaner Linear look */
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.05);
+
+  /* Force background to be flat black for all major containers */
+  --ifm-card-background-color: #171717; /* Paper Elevation 1 */
+  --ifm-menu-color-background-active: rgba(255, 255, 255, 0.05);
+  --ifm-menu-color-background-hover: rgba(255, 255, 255, 0.03);
+}
+
+[data-theme="dark"] .main-wrapper,
+[data-theme="dark"] .hero,
+[data-theme="dark"] article,
+[data-theme="dark"] .markdown,
+[data-theme="dark"] .theme-doc-markdown {
+  background-color: #0a0a0a !important;
+}
+
+/* Cards with Paper Elevation (gover-frontend style) - NOT sidebar */
+[data-theme="dark"] .card,
+[data-theme="dark"] [class*="cardContainer"],
+[data-theme="dark"] [class*="DocCard"] {
+  background-color: #171717; /* Paper Elevation 1 */
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+}
+
+/* Hover state for cards - slightly brighter */
+[data-theme="dark"] .card:hover,
+[data-theme="dark"] [class*="cardContainer"]:hover,
+[data-theme="dark"] [class*="DocCard"]:hover {
+  background-color: #262626; /* Paper Elevation 2 */
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Homepage feature cards */
+[data-theme="dark"] .features_src-components-HomepageFeatures-styles-module,
+[data-theme="dark"] [class*="feature"] {
+  background-color: #171717;
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+/* Keep sidebar flat - no elevation */
+[data-theme="dark"] .theme-doc-sidebar-item-category,
+[data-theme="dark"] .menu__list-item,
+[data-theme="dark"] .menu {
+  background-color: #0a0a0a !important;
+  border: none !important;
+}
+
+/* Dark Mode Link Override for Readability */
+html[data-theme="dark"] a {
+  color: #fff; /* Just white as requested */
+  text-decoration: underline;
+  text-decoration-color: rgba(255, 255, 255, 0.3);
+  text-underline-offset: 4px;
+}
+
+html[data-theme="dark"] a:hover {
+  text-decoration-color: #fff;
+}
+
+/* Ensure list bullets/numbers are white */
+[data-theme="dark"] .markdown ul > li::marker,
+[data-theme="dark"] .markdown ol > li::marker {
+  color: #fff;
+}
+
+/* Button & UI Standardization (Linear Style) */
+.button,
+.navbar__item.navbar__link.button,
+.pagination-nav__link {
+  border-radius: 6px; /* Match gover-frontend theme.shape.borderRadius (implied 6px/8px based on CSS) */
+  text-transform: none; /* No uppercase */
+  box-shadow: none !important; /* Remove shadows */
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+[data-theme="dark"] .button--primary,
+[data-theme="dark"] .pagination-nav__link {
+  background-color: #0455ca; /* Deep blue background */
+  border-color: #0455ca;
+  color: #fff !important; /* White text on primary buttons */
+}
+
+[data-theme="dark"] .button--primary:hover,
+[data-theme="dark"] .pagination-nav__link:hover {
+  background-color: #034cb6; /* Slightly darker on hover */
+  border-color: #034cb6;
 }
 
 /* Navbar styling */
 .navbar {
-  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05); /* Light mode shadow */
+  border-bottom: 1px solid var(--ifm-border-color); /* Add border for both modes structurally */
+}
+
+[data-theme="dark"] .navbar {
+  box-shadow: none; /* Remove shadow in dark mode for flat look */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  background-color: #0a0a0a;
 }
 
 .navbar__title {
   font-weight: 600;
+}
+
+/* Make logo white in dark mode */
+[data-theme="dark"] .navbar__logo img,
+[data-theme="dark"] .footer__logo img,
+[data-theme="dark"] .footer__logo,
+[data-theme="dark"] .footer .footer__logo img {
+  filter: brightness(0) invert(1); /* Turn any color to white */
 }
 
 /* Sidebar styling */
@@ -38,18 +160,98 @@
   border-radius: 6px;
 }
 
-/* Footer styling */
-.footer {
-  background-color: #1e293b;
+[data-theme="dark"] .menu {
+  background-color: #0a0a0a;
 }
 
-[data-theme='dark'] .footer {
-  background-color: #0f172a;
+/* Footer styling */
+.footer {
+  background-color: #fff; /* White background */
+  color: #0f172a; /* Dark text for contrast */
+  padding: 4rem 2rem;
+  border-top: 1px solid #e2e8f0; /* Light gray border */
+}
+
+html[data-theme="dark"] .footer {
+  background-color: #0a0a0a; /* Match global background */
+  border-top: 1px solid rgba(255, 255, 255, 0.12); /* Subtle linear border */
+  color: #fff; /* Light text for dark mode */
+}
+
+.footer__title {
+  color: #0f172a; /* Dark title for light mode */
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 1rem;
+}
+
+html[data-theme="dark"] .footer__title {
+  color: #fff;
+  opacity: 1;
+}
+
+.footer__link-item {
+  color: #475569; /* Dark gray for links */
+  font-size: 0.95rem;
+  line-height: 1.75;
+  transition: color 0.2s ease;
+}
+
+html[data-theme="dark"] .footer__link-item {
+  color: rgba(255, 255, 255, 0.7); /* Secondary text */
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-color-primary); /* Primary color on hover */
+  text-decoration: none;
+}
+
+html[data-theme="dark"] .footer__link-item:hover {
+  color: #fff; /* White hover for dark mode */
+  opacity: 1;
+}
+
+.footer__copyright {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e2e8f0;
+  text-align: center;
+  color: #64748b; /* Medium gray copyright */
+  font-size: 0.875rem;
+}
+
+html[data-theme="dark"] .footer__copyright {
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.38); /* Disabled/Muted text */
+}
+
+.footer__logo {
+  margin-bottom: 2rem;
+  max-width: 200px; /* Allow larger logo */
 }
 
 /* Admonition styling */
-.admonition {
+.admonition,
+.theme-admonition {
   border-radius: 8px;
+  box-shadow: none !important;
+}
+
+/* Linear-style Admonitions (Dark Mode) */
+[data-theme="dark"] .admonition,
+[data-theme="dark"] .theme-admonition {
+  background-color: rgba(255, 255, 255, 0.03); /* Extremely subtle fill */
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-left-width: 4px; /* Keep the colored indicator */
+}
+
+/* Code Blocks */
+[data-theme="dark"] .prism-code,
+[data-theme="dark"] pre {
+  background-color: #0d0d0d !important; /* Slightly distinct from main bg */
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 /* Table styling */
@@ -58,8 +260,9 @@ table {
   width: 100%;
 }
 
-th, td {
-  border: 1px solid var(--ifm-table-border-color);
+th,
+td {
+  border: 1px solid var(--ifm-border-color); /* Use the global border variable */
 }
 
 /* Mermaid diagram styling */
