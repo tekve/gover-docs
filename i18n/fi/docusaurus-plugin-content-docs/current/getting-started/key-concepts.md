@@ -22,6 +22,7 @@ flowchart TB
     end
     R -.->|yhdistetty| C
     RI -.->|lievennetty| C
+    RA -.->|arvioi| RI
 ```
 
 ## Viitekehykset

@@ -22,6 +22,7 @@ flowchart TB
     end
     R -.->|mapped to| C
     RI -.->|mitigated by| C
+    RA -.->|evaluates| RI
 ```
 
 ## Frameworks
