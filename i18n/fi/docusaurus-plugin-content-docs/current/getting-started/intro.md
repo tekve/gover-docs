@@ -19,7 +19,7 @@ flowchart LR
     C --> D[Dokumentit]
     C --> T[Tehtävät]
     RI[Riskit] --> C
-    RI --> RA[Riskiarvioinnit]
+    RA[Riskiarvioinnit] --> RI
 ```
 
 ## Keskeiset ominaisuudet
