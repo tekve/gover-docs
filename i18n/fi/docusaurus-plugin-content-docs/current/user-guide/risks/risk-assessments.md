@@ -19,14 +19,14 @@ Riskinarviointi on jäsennelty arviointi, joka määrittää:
 
 ### Kokonaisriskin arviointi
 
-Arvioi riskin **ennen** kontrollien soveltamista.
+Arvioi riskin **ennen** hallintakeinoen soveltamista.
 
 - Edustaa "raakaa" riskitasoa
-- Vertailukohta kontrollien tehokkuuden mittaamiselle
+- Vertailukohta hallintakeinoen tehokkuuden mittaamiselle
 
 ### Jäännösriskin arviointi
 
-Arvioi riskin **jälkeen**, kun kontrollit on sovellettu.
+Arvioi riskin **jälkeen**, kun hallintakeinot on sovellettu.
 
 - Näyttää nykyisen riskialtistuksen
 - Ohjaa jatkokäsittelypäätöksiä
@@ -114,7 +114,7 @@ Seuraa arviointeja ajan myötä:
 
 ```mermaid
 flowchart LR
-    A[Alkuarviointi] --> B[Implementoi kontrollit]
+    A[Alkuarviointi] --> B[Implementoi hallintakeinot]
     B --> C[Arvioi uudelleen]
     C --> D{Hyväksyttävä?}
     D -->|Kyllä| E[Monitoroi]
@@ -126,7 +126,7 @@ flowchart LR
 1. **Ole johdonmukainen** — Käytä samoja kriteerejä arvioinneissa
 2. **Dokumentoi perustelut** — Selitä pisteytyspäätöksesi
 3. **Arvioi säännöllisesti uudelleen** — Riskitasot muuttuvat ajan myötä
-4. **Vertaa kokonaisriskiä/jäännösriskiä** — Mittaa kontrollien tehokkuutta
+4. **Vertaa kokonaisriskiä/jäännösriskiä** — Mittaa hallintakeinoen tehokkuutta
 5. **Osallista sidosryhmät** — Pyydä syötettä riskien omistajilta
 
 ## Seuraavat vaiheet

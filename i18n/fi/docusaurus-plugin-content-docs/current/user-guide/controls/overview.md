@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Kontrollit
+# Hallintakeinot
 
-Kontrollit ovat politiikkoja, menettelyjä ja toimenpiteitä, joita organisaatiosi toteuttaa täyttääkseen vaatimustenmukaisuusvaatimukset ja lieventääkseen riskejä.
+Hallintakeinot ovat politiikkoja, menettelyjä ja toimenpiteitä, joita organisaatiosi toteuttaa täyttääkseen vaatimustenmukaisuusvaatimukset ja lieventääkseen riskejä.
 
-## Mikä on kontrolli?
+## Mikä on hallintakeino?
 
-Kontrolli on suojatoimenpide tai vastatoimi, joka on suunniteltu:
+Hallintakeino on suojatoimenpide tai vastatoimi, joka on suunniteltu:
 
 - Täyttämään vaatimustenmukaisuusvaatimukset
 - Lieventämään tunnistettuja riskejä
@@ -17,57 +17,57 @@ Kontrolli on suojatoimenpide tai vastatoimi, joka on suunniteltu:
 
 ```mermaid
 flowchart TD
-    C[Kontrolli] --> R[Vaatimukset]
+    C[Hallintakeino] --> R[Vaatimukset]
     C --> RI[Riskit]
     C --> D[Asiakirjat]
     C --> T[Tehtävät]
     C --> TE[Testaukset]
 ```
 
-## Kontrollikirjasto
+## Hallintakeinokirjasto
 
-Kontrollikirjastosi on keskitetty varasto kaikille työtilasi kontrolleille.
+Hallintakeinokirjastosi on keskitetty varasto kaikille työtilasi hallintakeinoille.
 
 ### Näkymät
 
 | Näkymä              | Kuvaus                                                    |
 | ------------------- | --------------------------------------------------------- |
 | **Luettelonäkymä**  | Lajiteltava, suodatettava taulukko kaikista kontrolleista |
-| **Kategorianäkymä** | Kontrollit järjestetty kategoriaan                        |
-| **Mallipohjat**     | Valmiiksi rakennetut kontrollimallit                      |
+| **Kategorianäkymä** | Hallintakeinot järjestetty kategoriaan                        |
+| **Mallipohjat**     | Valmiiksi rakennetut hallintakeinomallit                      |
 
-## Kontrollin ominaisuudet
+## Hallintakeinon ominaisuudet
 
-Jokaisella kontrollilla on:
+Jokaisella hallintakeinolla on:
 
 | Ominaisuus            | Kuvaus                            |
 | --------------------- | --------------------------------- |
-| **Otsikko**           | Kontrollin nimi                   |
+| **Otsikko**           | Hallintakeinon nimi                   |
 | **Kuvaus**            | Yksityiskohtainen selitys         |
 | **Kategoria**         | Organisaation mukainen ryhmittely |
 | **Omistaja**          | Vastuuhenkilö                     |
 | **Tila**              | Implementoinnin tila              |
 | **Mukautetut kentät** | Lisäseurantakentät                |
 
-## Kontrollien suhteet
+## Hallintakeinoen suhteet
 
-Kontrollit yhdistyvät muihin entiteetteihin:
+Hallintakeinot yhdistyvät muihin entiteetteihin:
 
 ### Vaatimukset
 
-- Kontrollit täyttävät viitekehysvaatimukset
-- Yksi kontrolli voi yhdistyä useisiin vaatimuksiin
+- Hallintakeinot täyttävät viitekehysvaatimukset
+- Yksi hallintakeino voi yhdistyä useisiin vaatimuksiin
 - Viitekehyksien välinen kartoitus tuettu
 
 ### Riskit
 
-- Kontrollit lieventävät tunnistettuja riskejä
+- Hallintakeinot lieventävät tunnistettuja riskejä
 - Näyttää riskin vähentämisvaikutuksen
 - Linkittyy riskinarviointeihin
 
 ### Asiakirjat
 
-- Dokumentit tukevat kontrolleja
+- Dokumentit tukevat hallintakeinoja
 - Politiikat, menettelyt, tietueet
 - Versonhallinta
 
@@ -77,15 +77,15 @@ Kontrollit yhdistyvät muihin entiteetteihin:
 - Katselmointi- ja auditointitehtävät
 - Korjaavat toimenpiteet
 
-## Kontrollin tila
+## Hallintakeinon tila
 
 Seuraa implementoinnin edistymistä:
 
 | Tila                | Merkitys                                    |
 | ------------------- | ------------------------------------------- |
-| **Luonnos**         | Kontrolli määritelty mutta ei implementoitu |
+| **Luonnos**         | Hallintakeino määritelty mutta ei implementoitu |
 | **Käynnissä**       | Implementointi käynnissä                    |
-| **Implementoitu**   | Kontrolli on toiminnassa                    |
+| **Implementoitu**   | Hallintakeino on toiminnassa                    |
 | **Katselmoinnissa** | Aikataulutettu katselmointiin               |
 | **Vanhentunut**     | Ei enää käytössä                            |
 
@@ -93,14 +93,14 @@ Seuraa implementoinnin edistymistä:
 
 | Toiminto    | Kuvaus                                     |
 | ----------- | ------------------------------------------ |
-| **Luo**     | Lisää uusia kontrolleja                    |
+| **Luo**     | Lisää uusia hallintakeinoja                    |
 | **Tuo**     | Massatuonti mallipohjista tai tiedostoista |
 | **Yhdistä** | Linkitä vaatimuksiin ja riskeihin          |
-| **Testaa**  | Varmista kontrollin tehokkuus              |
-| **Vie**     | Luo kontrolliraportteja                    |
+| **Testaa**  | Varmista hallintakeinon tehokkuus              |
+| **Vie**     | Luo hallintakeinoraportteja                    |
 
 ## Seuraavat vaiheet
 
-- [Kontrollien luominen](./creating-controls) — Lisää kontrolleja kirjastoosi
-- [Kontrollien yhdistäminen](./mapping) — Linkitä kontrollit vaatimuksiin ja riskeihin
-- [Kontrollien testaus](./testing) — Varmista kontrollin tehokkuus
+- [Hallintakeinoen luominen](./creating-controls) — Lisää hallintakeinoja kirjastoosi
+- [Hallintakeinoen yhdistäminen](./mapping) — Linkitä hallintakeinot vaatimuksiin ja riskeihin
+- [Hallintakeinoen testaus](./testing) — Varmista hallintakeinon tehokkuus

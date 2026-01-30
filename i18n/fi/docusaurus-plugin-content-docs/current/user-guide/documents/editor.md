@@ -123,5 +123,5 @@ Vie dokumentteja eri muodoissa:
 
 ## Seuraavat vaiheet
 
-- [Dokumenttien yhdistäminen](./mapping) — Linkitä kontrolleihin
+- [Dokumenttien yhdistäminen](./mapping) — Linkitä hallintakeinoihin
 - [Dokumenttien yleiskatsaus](./overview) — Palaa yleiskatsaukseen

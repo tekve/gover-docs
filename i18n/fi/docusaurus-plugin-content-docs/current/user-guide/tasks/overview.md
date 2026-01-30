@@ -10,7 +10,7 @@ Tehtävät auttavat seuraamaan vaatimustenmukaisuustoimintoja, tehtävänantoja 
 
 Tehtävät edustavat työtehtäviä vaatimustenmukaisuusohjelmassasi:
 
-- Kontrollien implementointi
+- Hallintakeinoen implementointi
 - Dokumenttien katselmoinnit
 - Riskinarvioinnit
 - Auditointivalmistelut
@@ -52,7 +52,7 @@ Tehtävät yhdistyvät:
 
 ```mermaid
 flowchart LR
-    T[Tehtävä] --> C[Kontrollit]
+    T[Tehtävä] --> C[Hallintakeinot]
     T --> D[Dokumentit]
     T --> R[Riskinarvioinnit]
 ```
@@ -74,7 +74,7 @@ flowchart LR
 | **Luo**          | Lisää uusia tehtäviä                  |
 | **Osoita**       | Määritä tiimin jäsenille              |
 | **Päivitä tila** | Siirrä työnkulussa                    |
-| **Linkitä**      | Yhdistä kontrolleihin, dokumentteihin |
+| **Linkitä**      | Yhdistä hallintakeinoihin, dokumentteihin |
 | **Kommentoi**    | Keskustele tiimin kanssa              |
 
 ## Seuraavat vaiheet

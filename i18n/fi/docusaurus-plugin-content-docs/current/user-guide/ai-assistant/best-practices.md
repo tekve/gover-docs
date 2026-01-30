@@ -11,12 +11,12 @@ Saa paras hyöty Goverin AI-avustajasta näillä vinkeillä.
 ### Ole täsmällinen
 
 ❌ "Auta minua vaatimustenmukaisuudessa"
-✅ "Mitä kontrolleja minun tulisi implementoida GDPR:n artikla 32:n tietoturvavaatimuksiin?"
+✅ "Mitä hallintakeinoja minun tulisi implementoida GDPR:n artikla 32:n tietoturvavaatimuksiin?"
 
 ### Anna konteksti
 
 ❌ "Ehdota yhteyksiä"
-✅ "Ehdota kontrolleja ISO 27001:n A.9 Pääsynhallinta -vaatimuksille"
+✅ "Ehdota hallintakeinoja ISO 27001:n A.9 Pääsynhallinta -vaatimuksille"
 
 ### Kysy jatkokysymyksiä
 
@@ -34,7 +34,7 @@ Hyväksy ensin 80%+ luottamuksen ehdotukset, sitten tarkista matalammat pisteet.
 
 ### Varmista ennen hyväksymistä
 
-Tarkista aina ehdotukset todellisia kontrolleja ja vaatimuksia vasten.
+Tarkista aina ehdotukset todellisia hallintakeinoja ja vaatimuksia vasten.
 
 ### Käytä massatoimintoja viisaasti
 
@@ -48,7 +48,7 @@ Hyväksyminen ja hylkääminen auttaa AI:ta oppimaan mieltymyksesi.
 
 ### Paremmat kuvaukset
 
-Yksityiskohtaiset kontrolli- ja vaatimuskuvaukset johtavat parempiin ehdotuksiin.
+Yksityiskohtaiset hallintakeino- ja vaatimuskuvaukset johtavat parempiin ehdotuksiin.
 
 ### Johdonmukainen nimeäminen
 
@@ -56,7 +56,7 @@ Käytä johdonmukaista terminologiaa työtilassasi.
 
 ### Enemmän dataa
 
-AI paranee lisätessäsi kontrolleja, dokumentteja ja yhteyksiä.
+AI paranee lisätessäsi hallintakeinoja, dokumentteja ja yhteyksiä.
 
 ### Säännöllinen käyttö
 

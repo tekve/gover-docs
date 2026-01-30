@@ -79,7 +79,7 @@ Järjestä riskit kategorioittain:
 | ---------------- | ------------------------------------- |
 | **Tunnistettu**  | Riski dokumentoitu, ei vielä arvioitu |
 | **Arvioitu**     | Riski on arvioitu                     |
-| **Käsittelyssä** | Kontrolleja implementoidaan           |
+| **Käsittelyssä** | Hallintakeinoja implementoidaan           |
 | **Seurannassa**  | Riski hyväksytty ja seurannassa       |
 | **Suljettu**     | Riski ei enää relevantti              |
 
@@ -109,10 +109,10 @@ Klikkaa riskiä nähdäksesi:
 - Nykyiset pisteet
 - Trendi ajan myötä
 
-### Kontrollit-välilehti
+### Hallintakeinot-välilehti
 
-- Yhdistetyt kontrollit
-- Kontrollien tehokkuus
+- Yhdistetyt hallintakeinot
+- Hallintakeinoen tehokkuus
 
 ### Tehtävät-välilehti
 
@@ -129,7 +129,7 @@ Klikkaa riskiä nähdäksesi:
 1. **Ole täsmällinen** — Kuvaa selkeästi mitä voisi mennä pieleen
 2. **Määritä omistajat** — Jokainen riski tarvitsee vastuuhenkilön
 3. **Arvioi säännöllisesti** — Riskitasot muuttuvat ajan myötä
-4. **Linkitä kontrolleihin** — Näytä miten riskejä lievennetään
+4. **Linkitä hallintakeinoihin** — Näytä miten riskejä lievennetään
 5. **Tarkista ajoittain** — Arkistoi riskit, jotka eivät ole enää relevantteja
 
 ## Seuraavat vaiheet

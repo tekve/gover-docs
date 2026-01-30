@@ -66,12 +66,12 @@ Jokaiselle vaatimukselle:
 3. Dokumentoi todisteet
 4. Tunnista puutteet
 
-### 3. Yhdistä kontrollit
+### 3. Yhdistä hallintakeinot
 
-Linkitä olemassa olevat kontrollisi Kybermittarin vaatimuksiin:
+Linkitä olemassa olevat hallintakeinosi Kybermittarin vaatimuksiin:
 
 - Tietoturvapolitiikat
-- Tekniset kontrollit
+- Tekniset hallintakeinot
 - Prosessit ja toimintatavat
 
 ### 4. Seuraa kehitystä

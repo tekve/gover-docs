@@ -2,15 +2,15 @@
 sidebar_position: 5
 ---
 
-# Kontrollikategoriat
+# Hallintakeinokategoriat
 
-Järjestä kontrollisi loogisiin kategorioihin hallinnan helpottamiseksi.
+Järjestä hallintakeinosi loogisiin kategorioihin hallinnan helpottamiseksi.
 
 ## Miksi kategorisoida?
 
 Kategoriat auttavat sinua:
 
-- Löytämään kontrollit nopeasti
+- Löytämään hallintakeinot nopeasti
 - Raportoimaan kategorioittain
 - Määrittämään omistajuuden alueittain
 - Seuraamaan kattavuutta aihealueittain
@@ -29,17 +29,17 @@ Gover tarjoaa yleisiä kategoriarakenteita:
 
 ### Tyypeittäin
 
-- Tekniset kontrollit
-- Hallinnolliset kontrollit
-- Fyysiset kontrollit
-- Havainnoivat kontrollit
-- Ennaltaehkäisevät kontrollit
+- Tekniset hallintakeinot
+- Hallinnolliset hallintakeinot
+- Fyysiset hallintakeinot
+- Havainnoivat hallintakeinot
+- Ennaltaehkäisevät hallintakeinot
 
 ## Kategorioiden hallinta
 
 ### Luo kategoria
 
-1. Mene kohtaan **Kontrollit** → **Asetukset** → **Kategoriat**
+1. Mene kohtaan **Hallintakeinot** → **Asetukset** → **Kategoriat**
 2. Klikkaa **Lisää kategoria**
 3. Syötä:
    - Kategorian nimi
@@ -50,7 +50,7 @@ Gover tarjoaa yleisiä kategoriarakenteita:
 
 ### Muokkaa kategorioita
 
-1. Mene kohtaan **Kontrollit** → **Asetukset** → **Kategoriat**
+1. Mene kohtaan **Hallintakeinot** → **Asetukset** → **Kategoriat**
 2. Klikkaa kategoriaa
 3. Muokkaa tietoja
 4. Tallenna muutokset
@@ -63,7 +63,7 @@ Raahaa ja pudota kategorioita järjestääksesi ne uudelleen sivupalkissa ja lue
 
 1. Valitse kategoria
 2. Klikkaa **Poista**
-3. Valitse mitä tehdään kategorian kontrolleille:
+3. Valitse mitä tehdään kategorian hallintakeinoille:
    - Siirrä toiseen kategoriaan
    - Jätä kategorisoimattomaksi
 
@@ -72,7 +72,7 @@ Raahaa ja pudota kategorioita järjestääksesi ne uudelleen sivupalkissa ja lue
 Luo sisäkkäisiä kategorioita yksityiskohtaista järjestelyä varten:
 
 ```
-Tietoturvakontrollit
+Tietoturvahallintakeinot
 ├── Pääsynhallinta
 │   ├── Todentaminen
 │   └── Valtuutus
@@ -84,18 +84,18 @@ Tietoturvakontrollit
     └── Varmuuskopiointi
 ```
 
-## Kontrollien osoittaminen kategorioihin
+## Hallintakeinoen osoittaminen kategorioihin
 
-### Yksittäinen kontrolli
+### Yksittäinen hallintakeino
 
-1. Avaa kontrolli
+1. Avaa hallintakeino
 2. Muokkaa **Kategoria**-kenttää
 3. Valitse alasvetovalikosta
 4. Tallenna
 
 ### Massamääritys
 
-1. Valitse useita kontrolleja
+1. Valitse useita hallintakeinoja
 2. Klikkaa **Massatoiminnot** → **Aseta kategoria**
 3. Valitse kategoria
 4. Sovella
@@ -104,7 +104,7 @@ Tietoturvakontrollit
 
 Luo raportteja kategorioittain:
 
-- Kontrollimäärä per kategoria
+- Hallintakeinomäärä per kategoria
 - Implementoinnin tila kategorioittain
 - Yhdistämiskattavuus kategorioittain
 

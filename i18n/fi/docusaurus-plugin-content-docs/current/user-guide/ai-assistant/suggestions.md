@@ -8,31 +8,31 @@ Saa älykkäitä suosituksia yhteyksiin ja sisältöön.
 
 ## Ehdotustyypit
 
-### Kontrolli-vaatimus -yhdistäminen
+### Hallintakeino-vaatimus -yhdistäminen
 
-AI ehdottaa mitkä kontrollit täyttävät mitkä vaatimukset.
+AI ehdottaa mitkä hallintakeinot täyttävät mitkä vaatimukset.
 
-### Dokumentti-kontrolli -yhdistäminen
+### Dokumentti-hallintakeino -yhdistäminen
 
-AI ehdottaa mitkä dokumentit toimivat todisteina kontrolleille.
+AI ehdottaa mitkä dokumentit toimivat todisteina hallintakeinoille.
 
 ### Riskien käsittely
 
-AI ehdottaa kontrolleja tunnistettujen riskien lieventämiseen.
+AI ehdottaa hallintakeinoja tunnistettujen riskien lieventämiseen.
 
 ## Ehdotusten saaminen
 
 ### Vaatimuksista
 
 1. Avaa vaatimus
-2. Klikkaa **Yhdistä kontrollit**
+2. Klikkaa **Yhdistä hallintakeinot**
 3. Klikkaa **AI-ehdotukset**
-4. Tarkista ehdotetut kontrollit luottamusluvuineen
+4. Tarkista ehdotetut hallintakeinot luottamusluvuineen
 5. Hyväksy tai hylkää kukin ehdotus
 
 ### Kontrolleista
 
-1. Avaa kontrolli
+1. Avaa hallintakeino
 2. Klikkaa **Yhdistä vaatimukset** tai **Yhdistä dokumentit**
 3. Klikkaa **AI-ehdotukset**
 4. Tarkista ja hyväksy ehdotukset
@@ -40,9 +40,9 @@ AI ehdottaa kontrolleja tunnistettujen riskien lieventämiseen.
 ### Dokumenteista
 
 1. Avaa dokumentti
-2. Klikkaa **Yhdistä kontrollit**
+2. Klikkaa **Yhdistä hallintakeinot**
 3. Klikkaa **AI-ehdotukset**
-4. Tarkista ehdotetut kontrollit
+4. Tarkista ehdotetut hallintakeinot
 
 ## Ehdotusten ymmärtäminen
 

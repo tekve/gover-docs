@@ -13,7 +13,7 @@ Jokainen vaatimus edustaa tiettyä vaatimustenmukaisuusvelvoitetta. Vaatimukset 
 ```mermaid
 flowchart LR
     R[Vaatimus] --> S[Tila]
-    R --> C[Yhdistetyt kontrollit]
+    R --> C[Yhdistetyt hallintakeinot]
     R --> CF[Mukautetut kentät]
     R --> H[Historia]
 ```
@@ -43,32 +43,32 @@ Klikkaa mitä tahansa vaatimusta nähdäksesi sen tiedot:
 | Osio                  | Kuvaus                          |
 | --------------------- | ------------------------------- |
 | **Yleiskatsaus**      | Otsikko, kuvaus ja ohjeistus    |
-| **Kontrollit**        | Yhdistetyt kontrollit tiloineen |
+| **Hallintakeinot**        | Yhdistetyt hallintakeinot tiloineen |
 | **Mukautetut kentät** | Lisäseurantakentät              |
 | **Historia**          | Muutosloki ja tarkastuspolku    |
 | **Kommentit**         | Tiimikeskustelut                |
 
-## Kontrollien yhdistäminen vaatimuksiin
+## Hallintakeinoen yhdistäminen vaatimuksiin
 
-Goverin ydinprosessi on kontrollien yhdistäminen vaatimuksiin.
+Goverin ydinprosessi on hallintakeinoen yhdistäminen vaatimuksiin.
 
-### Lisää kontrolliyhteys
+### Lisää hallintakeinoyhteys
 
 1. Avaa vaatimus
-2. Klikkaa **Yhdistä kontrollit**
+2. Klikkaa **Yhdistä hallintakeinot**
 3. Valitse:
-   - **Olemassa olevat kontrollit** — Valitse kontrollikirjastostasi
-   - **Luo uusi** — Luo kontrolli ja yhdistä se
+   - **Olemassa olevat hallintakeinot** — Valitse hallintakeinokirjastostasi
+   - **Luo uusi** — Luo hallintakeino ja yhdistä se
    - **AI-ehdotukset** — Saat älykkäitä yhdistämissuosituksia
 
 <!-- TODO: Add GIF showing control mapping -->
 
 ### AI-avusteinen yhdistäminen
 
-Goverin tekoäly voi ehdottaa relevantteja kontrolleja:
+Goverin tekoäly voi ehdottaa relevantteja hallintakeinoja:
 
 1. Klikkaa **AI-ehdotukset** yhdistämisikkunassa
-2. Tarkista ehdotetut kontrollit luottamuslukuineen
+2. Tarkista ehdotetut hallintakeinot luottamuslukuineen
 3. Hyväksy ehdotukset luodaksesi yhteydet
 4. Muokkaa tai hylkää tarpeen mukaan
 
@@ -82,9 +82,9 @@ Vaatimukset näyttävät vaatimustenmukaisuuden tilansa:
 
 | Tila                       | Merkitys                                      |
 | -------------------------- | --------------------------------------------- |
-| 🔴 **Ei aloitettu**        | Ei kontrolleja yhdistetty                     |
+| 🔴 **Ei aloitettu**        | Ei hallintakeinoja yhdistetty                     |
 | 🟡 **Käynnissä**           | Osa kontrolleista yhdistetty, ei valmis       |
-| 🟢 **Vaatimustenmukainen** | Kaikki tarvittavat kontrollit paikallaan      |
+| 🟢 **Vaatimustenmukainen** | Kaikki tarvittavat hallintakeinot paikallaan      |
 | ⚪ **Ei sovellettavissa**  | Merkitty ei-sovellettavaksi organisaatiossasi |
 
 ## Vaatimusten suodattaminen
@@ -107,11 +107,11 @@ Valitse useita vaatimuksia:
 ## Parhaat käytännöt
 
 1. **Järjestelmällinen työskentely** — Käsittele vaatimukset osio kerrallaan
-2. **Käytä AI-ehdotuksia** — Anna tekoälyn auttaa relevanttien kontrollien tunnistamisessa
+2. **Käytä AI-ehdotuksia** — Anna tekoälyn auttaa relevanttien hallintakeinoen tunnistamisessa
 3. **Dokumentoi perustelut** — Lisää kommentteja selittämään yhdistämispäätökset
-4. **Tarkista säännöllisesti** — Vaatimukset saattavat vaatia uudelleenarviointia kontrollien muuttuessa
+4. **Tarkista säännöllisesti** — Vaatimukset saattavat vaatia uudelleenarviointia hallintakeinoen muuttuessa
 
 ## Seuraavat vaiheet
 
 - [Valmiuden seuranta](./readiness-tracking) — Monitoroi kokonaisvalmiutta
-- [Kontrollien yleiskatsaus](../controls/overview) — Opi kontrollien hallinnasta
+- [Hallintakeinoen yleiskatsaus](../controls/overview) — Opi hallintakeinoen hallinnasta

@@ -2,16 +2,16 @@
 sidebar_position: 4
 ---
 
-# Kontrollien testaus
+# Hallintakeinoen testaus
 
-Varmista testauksella, että kontrollisi toimivat tehokkaasti.
+Varmista testauksella, että hallintakeinosi toimivat tehokkaasti.
 
-## Miksi testata kontrolleja?
+## Miksi testata hallintakeinoja?
 
-Kontrollien testaus varmistaa:
+Hallintakeinoen testaus varmistaa:
 
-- Kontrollit on implementoitu suunnitellusti
-- Kontrollit toimivat tehokkaasti
+- Hallintakeinot on implementoitu suunnitellusti
+- Hallintakeinot toimivat tehokkaasti
 - Todisteita on olemassa auditoijille
 - Puutteet tunnistetaan ajoissa
 
@@ -19,13 +19,13 @@ Kontrollien testaus varmistaa:
 
 | Tyyppi                        | Kuvaus                                         | Tiheys              |
 | ----------------------------- | ---------------------------------------------- | ------------------- |
-| **Suunnittelutesti**          | Varmista, että kontrolli on suunniteltu oikein | Kerran, muutoksissa |
-| **Toiminnallinen testi**      | Varmista, että kontrolli toimii käytännössä    | Säännöllisesti      |
+| **Suunnittelutesti**          | Varmista, että hallintakeino on suunniteltu oikein | Kerran, muutoksissa |
+| **Toiminnallinen testi**      | Varmista, että hallintakeino toimii käytännössä    | Säännöllisesti      |
 | **Vaatimustenmukaisuustesti** | Varmista vaatimusten noudattaminen             | Tarvittaessa        |
 
 ## Testien luominen
 
-1. Avaa kontrolli
+1. Avaa hallintakeino
 2. Mene **Testit** -välilehdelle
 3. Klikkaa **Lisää testi**
 4. Määritä testin tiedot:
@@ -51,8 +51,8 @@ Testin suorittamisen jälkeen:
 
 | Tila               | Merkitys                                        |
 | ------------------ | ----------------------------------------------- |
-| 🟢 **Hyväksytty**  | Kontrolli toimii tehokkaasti                    |
-| 🔴 **Hylätty**     | Kontrolli ei toimi odotetulla tavalla           |
+| 🟢 **Hyväksytty**  | Hallintakeino toimii tehokkaasti                    |
+| 🔴 **Hylätty**     | Hallintakeino ei toimi odotetulla tavalla           |
 | 🟡 **Osittainen**  | Jotkut kohdat hyväksytty, toiset vaativat työtä |
 | ⚪ **Ei testattu** | Testiä ei ole vielä suoritettu                  |
 
@@ -69,7 +69,7 @@ Tarkastele historiallisia testituloksia:
 
 Aseta toistuvia testejä:
 
-1. Avaa kontrolli
+1. Avaa hallintakeino
 2. Mene **Testit** -välilehdelle
 3. Klikkaa **Aikatauluta**
 4. Aseta tiheys (kuukausittain, neljännesvuosittain, vuosittain)
@@ -81,7 +81,7 @@ Kun testit epäonnistuvat:
 
 1. Dokumentoi epäonnistuminen
 2. Luo korjaava toimenpide (tehtävä)
-3. Määritä kontrollin omistajalle
+3. Määritä hallintakeinon omistajalle
 4. Seuraa valmistumiseen asti
 5. Testaa uudelleen korjauksen jälkeen
 
@@ -98,11 +98,11 @@ flowchart LR
 
 1. **Testaa säännöllisesti** — Älä odota auditointeja
 2. **Dokumentoi kaikki** — Säilytä todisteet kaikista testeistä
-3. **Käytä otantaa** — Testaa otoksia suurivolyymisille kontrolleille
+3. **Käytä otantaa** — Testaa otoksia suurivolyymisille hallintakeinoille
 4. **Riippumaton testaus** — Anna jonkun muun kuin omistajan testata
 5. **Seuraa epäonnistumisia** — Seuraa korjauksia loppuun asti
 
 ## Seuraavat vaiheet
 
-- [Kategoriat](./categories) — Järjestä kontrollisi
+- [Kategoriat](./categories) — Järjestä hallintakeinosi
 - [Riskinarvioinnit](../risks/risk-assessments) — Linkitä testaus riskienhallintaan

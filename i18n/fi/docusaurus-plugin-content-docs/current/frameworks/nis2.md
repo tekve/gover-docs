@@ -77,9 +77,9 @@ Määritä oletko keskeinen vai tärkeä toimija perusteinasi:
 - Koko
 - Kriittisyys
 
-### 3. Yhdistä kontrollit vaatimuksiin
+### 3. Yhdistä hallintakeinot vaatimuksiin
 
-Yhdistä turvallisuuskontrollisi NIS2 Artikla 21:n vaatimuksiin:
+Yhdistä turvallisuushallintakeinosi NIS2 Artikla 21:n vaatimuksiin:
 
 - Riskienhallintapolitiikat
 - Häiriönhallintaprosessit
@@ -94,9 +94,9 @@ Varmista, että pystyt noudattamaan raportointiaikatauluja:
 - 72h ilmoitusprosessi
 - Loppuraportointimenettelyt
 
-## Suositellut kontrollit
+## Suositellut hallintakeinot
 
-| NIS2-alue                    | Suositellut kontrollit                           |
+| NIS2-alue                    | Suositellut hallintakeinot                           |
 | ---------------------------- | ------------------------------------------------ |
 | **Riskienhallinta**          | Riskinarviointiprosessi, Tietoturvapolitiikka    |
 | **Häiriöiden käsittely**     | Häiriönhallintasuunnitelma, SIEM                 |

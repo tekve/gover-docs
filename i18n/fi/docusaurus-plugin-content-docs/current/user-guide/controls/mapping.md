@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Kontrollien yhdistäminen
+# Hallintakeinoen yhdistäminen
 
-Yhdistä kontrollit vaatimuksiin, riskeihin ja asiakirjoihin vaatimustenmukaisuuskuvasi rakentamiseksi.
+Yhdistä hallintakeinot vaatimuksiin, riskeihin ja asiakirjoihin vaatimustenmukaisuuskuvasi rakentamiseksi.
 
 ## Miksi yhdistäminen on tärkeää?
 
@@ -16,8 +16,8 @@ flowchart LR
         R1[Vaatimus A]
         R2[Vaatimus B]
     end
-    subgraph Kontrollit
-        C[Kontrolli]
+    subgraph Hallintakeinot
+        C[Hallintakeino]
     end
     subgraph Dokumentit
         D[Dokumentti]
@@ -29,9 +29,9 @@ flowchart LR
 
 ## Yhdistäminen vaatimuksiin
 
-### Kontrollista
+### Hallintakeinosta
 
-1. Avaa kontrolli
+1. Avaa hallintakeino
 2. Mene **Vaatimukset** -välilehdelle
 3. Klikkaa **Yhdistä vaatimukset**
 4. Valitse vaatimukset mistä tahansa viitekehyksestä
@@ -40,15 +40,15 @@ flowchart LR
 ### Vaatimuksesta
 
 1. Avaa vaatimus
-2. Klikkaa **Yhdistä kontrollit**
-3. Valitse olemassa olevat kontrollit tai luo uusi
+2. Klikkaa **Yhdistä hallintakeinot**
+3. Valitse olemassa olevat hallintakeinot tai luo uusi
 4. Vahvista yhdistäminen
 
 ### AI-avusteinen yhdistäminen
 
 Anna tekoälyn ehdottaa relevantteja yhteyksiä:
 
-1. Avaa kontrolli tai vaatimus
+1. Avaa hallintakeino tai vaatimus
 2. Klikkaa **AI-ehdotukset**
 3. Tarkista ehdotukset luottamuslukuineen
 4. Hyväksy tai hylkää kukin ehdotus
@@ -59,9 +59,9 @@ AI analysoi tekstin samankaltaisuutta, olemassa olevia yhteyksiä ja alan mallej
 
 ## Yhdistäminen riskeihin
 
-Linkitä kontrollit riskeihin, joita ne lieventävät:
+Linkitä hallintakeinot riskeihin, joita ne lieventävät:
 
-1. Avaa kontrolli
+1. Avaa hallintakeino
 2. Mene **Riskit** -välilehdelle
 3. Klikkaa **Yhdistä riskit**
 4. Valitse riskit rekisteristäsi
@@ -70,14 +70,14 @@ Linkitä kontrollit riskeihin, joita ne lieventävät:
 Tämä näyttää:
 
 - Mitkä riskit lievennetään kontrolleilla
-- Kontrollikattavuuden riskien käsittelyssä
+- Hallintakeinokattavuuden riskien käsittelyssä
 - Puutteet riskien lieventämisessä
 
 ## Yhdistäminen dokumentteihin
 
-Liitä todistedokumentteja kontrolleihin:
+Liitä todistedokumentteja hallintakeinoihin:
 
-1. Avaa kontrolli
+1. Avaa hallintakeino
 2. Mene **Dokumentit** -välilehdelle
 3. Klikkaa **Yhdistä dokumentit**
 4. Valitse olemassa olevat dokumentit tai lataa uusi
@@ -96,16 +96,16 @@ Liitä todistedokumentteja kontrolleihin:
 
 Linkitä implementointi- ja katselmointitehtävät:
 
-1. Avaa kontrolli
+1. Avaa hallintakeino
 2. Mene **Tehtävät** -välilehdelle
 3. Klikkaa **Yhdistä tehtävät** tai **Luo tehtävä**
 4. Liitä relevantit tehtävät
 
 ## Yhteyksien tarkastelu
 
-### Kontrollinäkymä
+### Hallintakeinonäkymä
 
-Näe kaikki yhden kontrollin yhteydet:
+Näe kaikki yhden hallintakeinon yhteydet:
 
 - Vaatimukset-välilehti
 - Riskit-välilehti
@@ -114,16 +114,16 @@ Näe kaikki yhden kontrollin yhteydet:
 
 ### Matriisinäkymä
 
-Näe yhteydet useiden kontrollien välillä:
+Näe yhteydet useiden hallintakeinoen välillä:
 
-- Viitekehys × Kontrolli -matriisi
-- Riski × Kontrolli -matriisi
+- Viitekehys × Hallintakeino -matriisi
+- Riski × Hallintakeino -matriisi
 
 ## Massayhdistäminen
 
 Yhdistä useita kohteita kerralla:
 
-1. Valitse useita kontrolleja (valintaruutu)
+1. Valitse useita hallintakeinoja (valintaruutu)
 2. Klikkaa **Massatoiminnot** → **Yhdistä**
 3. Valitse kohdevaatimukset tai -riskit
 4. Sovella kaikkiin valittuihin
@@ -132,11 +132,11 @@ Yhdistä useita kohteita kerralla:
 
 1. **Yhdistä kattavasti** — Älä jätä vaatimuksia ilman yhteyksiä
 2. **Käytä AI-ehdotuksia** — Säästä aikaa älykkäillä suosituksilla
-3. **Tarkista säännöllisesti** — Yhteydet saattavat vaatia päivityksiä kontrollien muuttuessa
+3. **Tarkista säännöllisesti** — Yhteydet saattavat vaatia päivityksiä hallintakeinoen muuttuessa
 4. **Dokumentoi perustelut** — Lisää kommentteja selittämään yhdistämispäätökset
 5. **Vältä liikayhdistämistä** — Yhdistä vain, kun on todellinen suhde
 
 ## Seuraavat vaiheet
 
-- [Kontrollien testaus](./testing) — Varmista kontrollin tehokkuus
-- [Kategoriat](./categories) — Järjestä kontrollisi
+- [Hallintakeinoen testaus](./testing) — Varmista hallintakeinon tehokkuus
+- [Kategoriat](./categories) — Järjestä hallintakeinosi

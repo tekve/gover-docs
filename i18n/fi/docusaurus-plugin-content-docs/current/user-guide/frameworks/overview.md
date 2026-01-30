@@ -19,7 +19,7 @@ flowchart TD
     C1 --> R2[Vaatimus 1.2]
     C2 --> R3[Vaatimus 2.1]
     C2 --> R4[Vaatimus 2.2]
-    R1 --> CO[Kontrollit]
+    R1 --> CO[Hallintakeinot]
     R2 --> CO
 ```
 
@@ -57,7 +57,7 @@ Näe kaikki vaatimukset suodatettavassa ja lajiteltavassa luettelossa.
 
 Jokainen viitekehys näyttää vaatimustenmukaisuuden valmiuden:
 
-- **Valmius %** — Prosenttiosuus vaatimuksista, joihin on yhdistetty kontrollit
+- **Valmius %** — Prosenttiosuus vaatimuksista, joihin on yhdistetty hallintakeinot
 - **Tilaindikaattorit** — Visuaalinen edistyminen kullekin osiolle
 - **Gap-analyysi** — Tunnista kartoittamattomat vaatimukset
 
@@ -67,7 +67,7 @@ Jokainen viitekehys näyttää vaatimustenmukaisuuden valmiuden:
 | -------------------------- | ------------------------------------------ |
 | **Lisää viitekehys**       | Tuo mallipohjista tai luo mukautettu       |
 | **Tarkastele vaatimuksia** | Selaa vaatimushierarkiaa                   |
-| **Yhdistä kontrollit**     | Linkitä kontrollit vaatimuksiin            |
+| **Yhdistä hallintakeinot**     | Linkitä hallintakeinot vaatimuksiin            |
 | **Seuraa edistymistä**     | Monitoroi vaatimustenmukaisuuden valmiutta |
 | **Vie**                    | Luo vaatimustenmukaisuusraportteja         |
 

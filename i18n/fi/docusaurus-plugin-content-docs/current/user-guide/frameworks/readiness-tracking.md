@@ -8,7 +8,7 @@ Monitoroi organisaatiosi vaatimustenmukaisuuden edistymistä kaikissa viitekehyk
 
 ## Valmiuden yleiskatsaus
 
-Gover laskee valmiuden sen perusteella, kuinka monella vaatimuksella on yhdistettyjä kontrolleja.
+Gover laskee valmiuden sen perusteella, kuinka monella vaatimuksella on yhdistettyjä hallintakeinoja.
 
 ```mermaid
 pie title Viitekehyksen valmius
@@ -69,7 +69,7 @@ Näe miten valmius on muuttunut ajan myötä:
 
 Seuraa viimeaikaisia vaatimustenmukaisuustoimia:
 
-- Uudet kontrolliyhteydet
+- Uudet hallintakeinoyhteydet
 - Tilamuutokset
 - Tiimin kontribuutiot
 
@@ -99,5 +99,5 @@ Luo vaatimustenmukaisuusraportteja:
 
 ## Seuraavat vaiheet
 
-- [Kontrollien yleiskatsaus](../controls/overview) — Hallitse kontrollikirjastoasi
+- [Hallintakeinoen yleiskatsaus](../controls/overview) — Hallitse hallintakeinokirjastoasi
 - [Riskienhallinta](../risks/overview) — Ymmärrä riskiseuranta

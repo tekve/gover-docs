@@ -12,8 +12,8 @@ AI-avustaja auttaa:
 
 | Kyvykkyys                | Kuvaus                                   |
 | ------------------------ | ---------------------------------------- |
-| **Yhdistämisehdotukset** | Suosittele kontrolli-vaatimus -yhteyksiä |
-| **Dokumenttianalyysi**   | Ehdota dokumentti-kontrolli -linkkejä    |
+| **Yhdistämisehdotukset** | Suosittele hallintakeino-vaatimus -yhteyksiä |
+| **Dokumenttianalyysi**   | Ehdota dokumentti-hallintakeino -linkkejä    |
 | **Chat-käyttöliittymä**  | Vastaa kysymyksiin datastasi             |
 | **Sisällöntuotanto**     | Auta kuvausten ja sisällön luonnissa     |
 
@@ -31,15 +31,15 @@ Keskustelupohjainen käyttöliittymä:
 
 Automatisoidut suositukset:
 
-- Kontrolliyhteydet vaatimuksiin
-- Dokumenttiyhteydet kontrolleihin
+- Hallintakeinoyhteydet vaatimuksiin
+- Dokumenttiyhteydet hallintakeinoihin
 - Riskien käsittelyvaihtoehdot
 
 ### Sisältöapu
 
 Apua kirjoittamiseen:
 
-- Kontrollikuvaukset
+- Hallintakeinokuvaukset
 - Riskikuvaukset
 - Dokumenttisisältö
 

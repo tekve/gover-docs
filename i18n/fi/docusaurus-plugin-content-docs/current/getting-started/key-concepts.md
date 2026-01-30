@@ -14,7 +14,7 @@ flowchart TB
         F[Viitekehys] --> R[Vaatimukset]
     end
     subgraph Toteutus
-        C[Kontrollit] --> D[Dokumentit]
+        C[Hallintakeinot] --> D[Dokumentit]
         C --> T[Tehtävät]
     end
     subgraph Riski
@@ -32,7 +32,7 @@ flowchart TB
 - **ISO 27001** — Tietoturvan hallintajärjestelmä
 - **GDPR** — Tietosuoja-asetus
 - **NIS2** — Verkko- ja tietoturvadirektiivi
-- **SOC 2** — Palveluorganisaation kontrollit
+- **SOC 2** — Palveluorganisaation hallintakeinot
 
 Viitekehykset sisältävät **vaatimuksia**, jotka on järjestetty hierarkkiseen rakenteeseen (luvut, osiot, artiklat).
 
@@ -42,28 +42,28 @@ Viitekehykset sisältävät **vaatimuksia**, jotka on järjestetty hierarkkiseen
 
 - Sisältää yksilöllisen tunnisteen (esim. "A.5.1.1")
 - Sisältää kuvauksen ja ohjeistuksen
-- Voidaan yhdistää yhteen tai useampaan kontrolliin
-- Näyttää valmiustilan yhdistettyjen kontrollien perusteella
+- Voidaan yhdistää yhteen tai useampaan hallintakeinoin
+- Näyttää valmiustilan yhdistettyjen hallintakeinoen perusteella
 
-## Kontrollit
+## Hallintakeinot
 
-**Kontrollit** ovat toimenpiteitä, käytäntöjä tai menettelyjä, joita toteutat vaatimusten täyttämiseksi. Kontrolli voi:
+**Hallintakeinot** ovat toimenpiteitä, käytäntöjä tai menettelyjä, joita toteutat vaatimusten täyttämiseksi. Hallintakeino voi:
 
 - Yhdistyä useisiin vaatimuksiin eri viitekehyksissä
 - Linkittyä todistedokumentteihin
 - Sisältää liittyviä tehtäviä
 - Olla luokiteltu ja merkitty tunnisteilla
 
-:::info Kontrollien uudelleenkäyttö
-Yksi kontrolli voi täyttää vaatimuksia useista viitekehyksistä. Esimerkiksi "Pääsynhallintakäytäntö" voi täyttää vaatimuksia sekä ISO 27001:ssä että GDPR:ssä.
+:::info Hallintakeinoen uudelleenkäyttö
+Yksi hallintakeino voi täyttää vaatimuksia useista viitekehyksistä. Esimerkiksi "Pääsynhallintakäytäntö" voi täyttää vaatimuksia sekä ISO 27001:ssä että GDPR:ssä.
 :::
 
 ## Riskit
 
 **Riskit** edustavat mahdollisia uhkia organisaatiollesi. Jokaisella riskillä on:
 
-- **Luontainen riski** — Riskitaso ennen kontrolleja
-- **Jäännösriski** — Riskitaso kontrollien soveltamisen jälkeen
+- **Luontainen riski** — Riskitaso ennen hallintakeinoja
+- **Jäännösriski** — Riskitaso hallintakeinoen soveltamisen jälkeen
 - **Käsittelysuunnitelma** — Miten riskiä käsitellään (lieventäminen, hyväksyminen, siirtäminen, välttäminen)
 
 ## Riskiarvioinnit
@@ -77,11 +77,11 @@ Yksi kontrolli voi täyttää vaatimuksia useista viitekehyksistä. Esimerkiksi 
 
 ## Dokumentit
 
-**Dokumentit** toimivat todisteina kontrolleillesi. Ne voivat olla:
+**Dokumentit** toimivat todisteina hallintakeinoillesi. Ne voivat olla:
 
 - Ladattuja tiedostoja (PDF, Word jne.)
 - Suoraan Goverissa luotuja
-- Linkitettyjä kontrolleihin todisteina
+- Linkitettyjä hallintakeinoihin todisteina
 
 ## Tehtävät
 
@@ -89,7 +89,7 @@ Yksi kontrolli voi täyttää vaatimuksia useista viitekehyksistä. Esimerkiksi 
 
 - Osoitettu tiimin jäsenille
 - Sisältävät määräajat ja prioriteetit
-- Voidaan linkittää kontrolleihin, riskeihin tai dokumentteihin
+- Voidaan linkittää hallintakeinoihin, riskeihin tai dokumentteihin
 - Hallitaan Kanban-taululla tai listanäkymässä
 
 ## Yhdistämiset
@@ -98,10 +98,10 @@ Yksi kontrolli voi täyttää vaatimuksia useista viitekehyksistä. Esimerkiksi 
 
 | Mistä | Mihin | Tarkoitus |
 |-------|-------|-----------|
-| Vaatimus | Kontrolli | Näyttää miten vaatimukset täytetään |
-| Kontrolli | Dokumentti | Linkittää todisteet kontrolleihin |
-| Kontrolli | Riski | Näyttää mitkä kontrollit lieventävät riskejä |
-| Kontrolli | Tehtävä | Seuraa toteutustyötä |
+| Vaatimus | Hallintakeino | Näyttää miten vaatimukset täytetään |
+| Hallintakeino | Dokumentti | Linkittää todisteet hallintakeinoihin |
+| Hallintakeino | Riski | Näyttää mitkä hallintakeinot lieventävät riskejä |
+| Hallintakeino | Tehtävä | Seuraa toteutustyötä |
 
 ## Työtilat ja organisaatiot
 
@@ -114,7 +114,7 @@ Käyttäjillä voi olla eri rooleja ja oikeuksia eri työtiloissa.
 
 **Sisältökeskus** tarjoaa:
 
-- **Mallit** — Valmiit viitekehykset ja kontrollit
+- **Mallit** — Valmiit viitekehykset ja hallintakeinot
 - **Oma sisältö** — Julkaisemasi sisältö
 - **Löydä** — Yhteisön markkinapaikka
 - **Asennetut** — Työtilaasi lisätty sisältö

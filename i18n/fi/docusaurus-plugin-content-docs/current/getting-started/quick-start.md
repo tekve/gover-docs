@@ -40,19 +40,19 @@ Kun viitekehys on lisätty:
 2. Selaa vaatimusten puurakennetta
 3. Jokainen vaatimus näyttää vaatimustenmukaisuuden tilan
 
-## Vaihe 5: Yhdistä kontrollit
+## Vaihe 5: Yhdistä hallintakeinot
 
-Kontrollit ovat toimenpiteitä, joita toteutat vaatimusten täyttämiseksi.
+Hallintakeinot ovat toimenpiteitä, joita toteutat vaatimusten täyttämiseksi.
 
 1. Avaa vaatimus
-2. Klikkaa **Yhdistä kontrollit**
-3. Valitse olemassa olevia kontrolleja tai luo uusia
+2. Klikkaa **Yhdistä hallintakeinot**
+3. Valitse olemassa olevia hallintakeinoja tai luo uusia
 4. Vaatimuksen valmius päivittyy automaattisesti
 
 ```mermaid
 flowchart TD
     A[Lisää viitekehys] --> B[Tarkista vaatimukset]
-    B --> C[Yhdistä kontrollit]
+    B --> C[Yhdistä hallintakeinot]
     C --> D[Lisää todisteet]
     D --> E[Seuraa valmiutta]
     E --> F[Saavuta vaatimustenmukaisuus]
@@ -71,4 +71,4 @@ Käytä **Etusivu**-kojelautaa seurataksesi:
 
 - [Peruskäsitteet](./key-concepts) — Ymmärrä Goverin ydinkäsitteet
 - [Viitekehysopas](../user-guide/frameworks/overview) — Syvenny viitekehysten hallintaan
-- [Kontrolliopas](../user-guide/controls/overview) — Opi kontrollien hallinnasta
+- [Hallintakeinoopas](../user-guide/controls/overview) — Opi hallintakeinoen hallinnasta

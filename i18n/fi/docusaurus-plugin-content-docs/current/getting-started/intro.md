@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Tervetuloa **Goveriin** — moderniin hallinto-, riski- ja vaatimustenmukaisuuden (GRC) hallintajärjestelmään.
 
-Gover auttaa organisaatioita hallitsemaan vaatimustenmukaisuuskehyksiä, seuraamaan riskejä, toteuttamaan kontrolleja ja ylläpitämään dokumentaatiota yhdessä yhtenäisessä työtilassa.
+Gover auttaa organisaatioita hallitsemaan vaatimustenmukaisuuskehyksiä, seuraamaan riskejä, toteuttamaan hallintakeinoja ja ylläpitämään dokumentaatiota yhdessä yhtenäisessä työtilassa.
 
 ## Mikä on Gover?
 
@@ -15,7 +15,7 @@ Gover on kattava GRC-alusta, joka on suunniteltu yksinkertaistamaan vaatimustenm
 ```mermaid
 flowchart LR
     F[Viitekehykset] --> R[Vaatimukset]
-    R --> C[Kontrollit]
+    R --> C[Hallintakeinot]
     C --> D[Dokumentit]
     C --> T[Tehtävät]
     RI[Riskit] --> RA[Riskiarvioinnit]
@@ -28,7 +28,7 @@ flowchart LR
 | Ominaisuus | Kuvaus |
 |------------|--------|
 | **Viitekehysten hallinta** | Tuo ja hallitse viitekehyksiä kuten ISO 27001, GDPR, NIS2 |
-| **Kontrollikirjasto** | Luo, järjestä ja yhdistä kontrollit vaatimuksiin |
+| **Hallintakeinokirjasto** | Luo, järjestä ja yhdistä hallintakeinot vaatimuksiin |
 | **Riskienhallinta** | Tunnista, arvioi ja käsittele riskejä mukautettavalla pistetyksellä |
 | **Dokumenttien hallinta** | Lataa, luo ja linkitä todisteita |
 | **Tehtävien hallinta** | Seuraa tehtäviä Kanban- ja listanäkymillä |
@@ -38,7 +38,7 @@ flowchart LR
 
 - **Vaatimustenmukaisuuspäälliköt** — Hallitse viitekehyksiä ja seuraa valmiutta
 - **Riskipäälliköt** — Arvioi ja seuraa organisaation riskejä
-- **IT-tietoturvatiimit** — Toteuta ja dokumentoi tietoturvakontrollit
+- **IT-tietoturvatiimit** — Toteuta ja dokumentoi tietoturvahallintakeinot
 - **Auditoijat** — Tarkista vaatimustenmukaisuuden tila ja todisteet
 - **Johto** — Saa näkyvyys vaatimustenmukaisuuden tilaan
 

@@ -56,17 +56,17 @@ Klikkaa solua nähdäksesi kyseisen kategorian riskit.
 
 ### Kokonaisriskin lämpökartta
 
-Näyttää riskit ennen kontrollien soveltamista.
+Näyttää riskit ennen hallintakeinoen soveltamista.
 
 - Lähtötilanteen riskikuva
 - Tunnistaa korkeimmat raakariskit
 
 ### Jäännösriskin lämpökartta
 
-Näyttää riskit kontrollien soveltamisen jälkeen.
+Näyttää riskit hallintakeinoen soveltamisen jälkeen.
 
 - Nykyinen riskialtistus
-- Mittaa kontrollien tehokkuutta
+- Mittaa hallintakeinoen tehokkuutta
 
 ### Vertailunäkymä
 

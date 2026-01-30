@@ -49,12 +49,12 @@ Yleinen tietosuoja-asetus (GDPR) on EU:n kattava tietosuojalaki.
 2. Valitse mallipohjista **GDPR**
 3. Lisää työtilaasi
 
-### 2. Yhdistä kontrollisi
+### 2. Yhdistä hallintakeinosi
 
-Yhdistä olemassa olevat kontrollit GDPR-vaatimuksiin:
+Yhdistä olemassa olevat hallintakeinot GDPR-vaatimuksiin:
 
 - Tietosuojakäytännöt
-- Pääsynhallintakontrollit
+- Pääsynhallintahallintakeinot
 - Salausmenetelmät
 - Häiriönhallintaprosessit
 
@@ -75,14 +75,14 @@ Monitoroi GDPR-vaatimustenmukaisuuttasi:
 - Puutteet artikloittain
 - Toimenpiteet
 
-## Suositellut kontrollit
+## Suositellut hallintakeinot
 
-| GDPR-alue      | Suositellut kontrollit                                            |
+| GDPR-alue      | Suositellut hallintakeinot                                            |
 | -------------- | ----------------------------------------------------------------- |
 | **Artikla 5**  | Tietoturvapolitiikka, Tietojen luokittelu                         |
 | **Artikla 25** | Sisäänrakennettu ja oletusarvoinen tietosuoja (Privacy by Design) |
 | **Artikla 30** | Seloste käsittelytoimista                                         |
-| **Artikla 32** | Turvallisuuskontrollit, Salaus, Pääsynhallinta                    |
+| **Artikla 32** | Turvallisuushallintakeinot, Salaus, Pääsynhallinta                    |
 | **Artikla 33** | Tietoturvaloukkausten hallintasuunnitelma                         |
 | **Artikla 35** | Vaikutustenarviointiprosessi (DPIA)                               |
 
@@ -103,4 +103,4 @@ Kiinnitä huomiota näihin yleisiin GDPR-puutteisiin:
 ## Seuraavat vaiheet
 
 - [Viitekehysten yleiskatsaus](../user-guide/frameworks/overview) — Opi viitekehysten hallinnasta
-- [Kontrollit](../user-guide/controls/overview) — Implementoi kontrollit
+- [Hallintakeinot](../user-guide/controls/overview) — Implementoi hallintakeinot

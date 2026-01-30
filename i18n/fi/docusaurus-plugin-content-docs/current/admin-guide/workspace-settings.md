@@ -68,7 +68,7 @@ Määritä asetukset kullekin moduulille:
 - Oletusnäkymä (kortit/luettelo)
 - Mukautetut kentät
 
-### Kontrollit
+### Hallintakeinot
 
 - Kategoriat
 - Mukautetut kentät
@@ -95,7 +95,7 @@ Määritä asetukset kullekin moduulille:
 
 Lisää mukautettuja kenttiä lisätietojen seuraamiseksi:
 
-1. Mene moduuliasetuksiin (esim. Kontrollit → Asetukset)
+1. Mene moduuliasetuksiin (esim. Hallintakeinot → Asetukset)
 2. Klikkaa **Mukautetut kentät**
 3. Lisää kenttä:
    - Nimi

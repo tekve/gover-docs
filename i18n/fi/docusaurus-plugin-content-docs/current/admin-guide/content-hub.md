@@ -10,7 +10,7 @@ Hallitse mallipohjia, löydä uutta sisältöä ja julkaise markkinapaikalle.
 
 Sisältöhubi on keskitetty paikka, josta löydät:
 
-- **Mallipohjat** — Valmiiksi rakennetut viitekehykset, kontrollit ja dokumentit
+- **Mallipohjat** — Valmiiksi rakennetut viitekehykset, hallintakeinot ja dokumentit
 - **Löytäminen** — Selaa markkinapaikan sisältöä
 - **Asennetut** — Sisältö, jonka olet lisännyt työtilaasi
 
@@ -33,7 +33,7 @@ Siirry kohtaan **Organisaatioasetukset** → **Sisältöhubi**
 | Tyyppi            | Kuvaus                         |
 | ----------------- | ------------------------------ |
 | **Viitekehykset** | Kokonaiset viitekehysrakenteet |
-| **Kontrollit**    | Kontrollikirjastot             |
+| **Hallintakeinot**    | Hallintakeinokirjastot             |
 | **Dokumentit**    | Dokumenttimallit               |
 | **Riskimallit**   | Esimääritellyt riskit          |
 
@@ -44,7 +44,7 @@ Siirry kohtaan **Organisaatioasetukset** → **Sisältöhubi**
 1. Mene kohtaan **Löytäminen**
 2. Selaa kategorioittain:
    - Viitekehykset
-   - Kontrollit
+   - Hallintakeinot
    - Dokumentit
 3. Käytä hakua ja suodattimia
 4. Esikatsele sisältöä
@@ -100,7 +100,7 @@ Niputa liittyvä sisältö yhteen:
 2. Klikkaa **Luo paketti**
 3. Lisää kohteet:
    - Viitekehykset
-   - Kontrollit
+   - Hallintakeinot
    - Dokumentit
 4. Lisää paketin metatiedot
 5. Julkaise

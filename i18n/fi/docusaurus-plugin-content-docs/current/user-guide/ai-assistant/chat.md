@@ -16,16 +16,16 @@ Klikkaa **AI-avustaja** -kuvaketta sivupalkissa avataksesi chat-paneelin.
 
 Kysy vaatimustenmukaisuusdatastasi:
 
-- "Mitkä kontrollit on yhdistetty GDPR:n artiklaan 32?"
+- "Mitkä hallintakeinot on yhdistetty GDPR:n artiklaan 32?"
 - "Näytä minulle korkean riskin kohteet"
-- "Millä vaatimuksilla ei ole kontrolleja?"
+- "Millä vaatimuksilla ei ole hallintakeinoja?"
 
 ### Saa ohjausta
 
 Kysy vaatimustenmukaisuusohjeita:
 
 - "Miten minun tulisi lähestyä ISO 27001 -sertifiointia?"
-- "Mitä kontrolleja tyypillisesti tarvitaan pääsynhallintaan?"
+- "Mitä hallintakeinoja tyypillisesti tarvitaan pääsynhallintaan?"
 - "Selitä ero kokonaisriskin ja jäännösriskin välillä"
 
 ### Navigoi
@@ -73,22 +73,22 @@ Pääse aiempiin keskusteluihin:
 ### Puutteiden löytäminen
 
 ```
-Sinä: Mitkä ISO 27001 -vaatimukset eivät ole yhdistetty kontrolleihin?
+Sinä: Mitkä ISO 27001 -vaatimukset eivät ole yhdistetty hallintakeinoihin?
 
-AI: Löysin 12 vaatimusta ilman yhdistettyjä kontrolleja:
+AI: Löysin 12 vaatimusta ilman yhdistettyjä hallintakeinoja:
 - A.5.1.1 - Tietoturvapolitiikat
 - A.5.1.2 - Politiikkojen katselmointi
 ...
-Haluatko, että ehdotan kontrolleja näille?
+Haluatko, että ehdotan hallintakeinoja näille?
 ```
 
 ### Ehdotusten saaminen
 
 ```
-Sinä: Ehdota kontrolleja A.5.1.1:lle
+Sinä: Ehdota hallintakeinoja A.5.1.1:lle
 
 AI: Vaatimuksen "Tietoturvapolitiikat" perusteella
-suosittelen näitä kontrolleja:
+suosittelen näitä hallintakeinoja:
 1. Tietoturvapolitiikka (90% vastaavuus)
 2. Tietoturvapolitiikkaviitekehys (85% vastaavuus)
 ...

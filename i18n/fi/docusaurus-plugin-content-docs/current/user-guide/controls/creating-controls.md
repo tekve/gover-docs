@@ -2,20 +2,20 @@
 sidebar_position: 2
 ---
 
-# Kontrollien luominen
+# Hallintakeinoen luominen
 
-Opi, kuinka lisäät kontrolleja Gover-työtilaasi.
+Opi, kuinka lisäät hallintakeinoja Gover-työtilaasi.
 
-## Tavat luoda kontrolleja
+## Tavat luoda hallintakeinoja
 
 ### 1. Manuaalinen luonti
 
-Luo kontrolleja yksi kerrallaan:
+Luo hallintakeinoja yksi kerrallaan:
 
-1. Siirry kohtaan **Kontrollit** → **Lisää kontrolli**
-2. Täytä kontrollin tiedot:
+1. Siirry kohtaan **Hallintakeinot** → **Lisää hallintakeino**
+2. Täytä hallintakeinon tiedot:
    - **Otsikko** — Selkeä, kuvaava nimi
-   - **Kuvaus** — Mitä kontrolli tekee ja miten
+   - **Kuvaus** — Mitä hallintakeino tekee ja miten
    - **Kategoria** — Organisaation mukainen ryhmittely
    - **Omistaja** — Vastuuhenkilö
 3. Klikkaa **Tallenna**
@@ -24,9 +24,9 @@ Luo kontrolleja yksi kerrallaan:
 
 ### 2. Mallipohjista
 
-Käytä valmiita kontrollimalleja:
+Käytä valmiita hallintakeinomalleja:
 
-1. Mene kohtaan **Kontrollit** → **Mallipohjat**
+1. Mene kohtaan **Hallintakeinot** → **Mallipohjat**
 2. Selaa saatavilla olevia malleja kategorioittain
 3. Klikkaa **Käytä mallipohjaa**
 4. Mukauta tarpeen mukaan
@@ -34,20 +34,20 @@ Käytä valmiita kontrollimalleja:
 
 ### 3. Sisältöhubista
 
-Asenna kontrolleja markkinapaikalta:
+Asenna hallintakeinoja markkinapaikalta:
 
 1. Siirry kohtaan **Sisältöhubi** → **Discovery**
-2. Etsi kontrollipaketteja
+2. Etsi hallintakeinopaketteja
 3. Klikkaa **Asenna**
-4. Kontrollit lisätään kirjastoosi
+4. Hallintakeinot lisätään kirjastoosi
 
 ### 4. Massatuonti
 
-Tuo useita kontrolleja kerralla:
+Tuo useita hallintakeinoja kerralla:
 
-1. Mene kohtaan **Kontrollit** → **Tuo**
+1. Mene kohtaan **Hallintakeinot** → **Tuo**
 2. Lataa tuontimalli (template)
-3. Täytä kontrollisi
+3. Täytä hallintakeinosi
 4. Lataa tiedosto
 5. Tarkista ja vahvista
 
@@ -55,30 +55,30 @@ Tuo useita kontrolleja kerralla:
 
 | Sarake        | Pakollinen | Kuvaus               |
 | ------------- | ---------- | -------------------- |
-| `title`       | Kyllä      | Kontrollin nimi      |
-| `description` | Ei         | Kontrollin kuvaus    |
+| `title`       | Kyllä      | Hallintakeinon nimi      |
+| `description` | Ei         | Hallintakeinon kuvaus    |
 | `category`    | Ei         | Kategorian nimi      |
 | `owner`       | Ei         | Omistajan sähköposti |
 
-## Kontrollin tiedot
+## Hallintakeinon tiedot
 
 ### Perustiedot
 
 - **Otsikko** — Pidä ytimekkäänä mutta kuvaavana
 - **Kuvaus** — Sisällytä:
-  - Mitä kontrolli tekee
+  - Mitä hallintakeino tekee
   - Miten se on toteutettu
   - Odotetut tulokset
 
 ### Kategoriat
 
-Järjestä kontrollit kategorioihin:
+Järjestä hallintakeinot kategorioihin:
 
-- Tietoturvakontrollit
-- Tietosuojakontrollit
-- Operatiiviset kontrollit
-- Tekniset kontrollit
-- Hallinnolliset kontrollit
+- Tietoturvahallintakeinot
+- Tietosuojahallintakeinot
+- Operatiiviset hallintakeinot
+- Tekniset hallintakeinot
+- Hallinnolliset hallintakeinot
 
 :::tip
 Luo kategoria-rakenne, joka vastaa organisaatiosi tarpeita.
@@ -104,12 +104,12 @@ Käytä tunnisteita joustavaan ryhmittelyyn:
 ## Parhaat käytännöt
 
 1. **Käytä selkeitä nimiä** — "Pääsynhallintapolitiikka" ei "PHP-001"
-2. **Ole täsmällinen** — Kuvaa tarkalleen mitä kontrolli tekee
-3. **Määritä omistajat** — Jokaisella kontrollilla tulee olla vastuuhenkilö
+2. **Ole täsmällinen** — Kuvaa tarkalleen mitä hallintakeino tekee
+3. **Määritä omistajat** — Jokaisella hallintakeinolla tulee olla vastuuhenkilö
 4. **Kategorisoi johdonmukaisesti** — Käytä standardia kategoriarakennetta
 5. **Linkitä todisteet** — Liitä tukidokumentit
 
-## Kontrollin elinkaari
+## Hallintakeinon elinkaari
 
 ```mermaid
 flowchart LR
@@ -122,6 +122,6 @@ flowchart LR
 
 ## Seuraavat vaiheet
 
-- [Kontrollien yhdistäminen](./mapping) — Linkitä kontrollit vaatimuksiin
-- [Kontrollien testaus](./testing) — Varmista tehokkuus
-- [Kategoriat](./categories) — Järjestä kontrollisi
+- [Hallintakeinoen yhdistäminen](./mapping) — Linkitä hallintakeinot vaatimuksiin
+- [Hallintakeinoen testaus](./testing) — Varmista tehokkuus
+- [Kategoriat](./categories) — Järjestä hallintakeinosi

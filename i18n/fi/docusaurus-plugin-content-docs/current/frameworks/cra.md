@@ -74,9 +74,9 @@ Tunnista soveltamisalan piiriin kuuluvat tuotteet:
 - Ohjelmistotuotteet
 - Yhdistetyt laitteet (IoT)
 
-### 3. Yhdistä kehityskontrollit
+### 3. Yhdistä kehityshallintakeinot
 
-Linkitä kontrollit seuraaville alueille:
+Linkitä hallintakeinot seuraaville alueille:
 
 - Turvallinen kehityselinkaari
 - Tietoturvatestaus

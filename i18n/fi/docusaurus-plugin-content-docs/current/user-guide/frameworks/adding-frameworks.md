@@ -20,7 +20,7 @@ Nopein tapa aloittaa standardiviitekehysten kanssa.
 <!-- TODO: Add GIF showing template selection -->
 
 :::tip
-Mallipohjat sisältävät täydellisen vaatimusrakenteen, valmiina kontrollien yhdistämistä varten.
+Mallipohjat sisältävät täydellisen vaatimusrakenteen, valmiina hallintakeinoen yhdistämistä varten.
 :::
 
 ### 2. Sisältöhubista
@@ -93,7 +93,7 @@ Mukautetuille viitekehyksille voit tuoda vaatimuksia massana:
 ## Parhaat käytännöt
 
 1. **Aloita mallipohjilla** — Käytä valmiita viitekehyksiä kun mahdollista
-2. **Tarkista ennen yhdistämistä** — Ymmärrä vaatimukset ennen kontrollien lisäämistä
+2. **Tarkista ennen yhdistämistä** — Ymmärrä vaatimukset ennen hallintakeinoen lisäämistä
 3. **Käytä johdonmukaista nimeämistä** — Noudata nimeämiskäytäntöä mukautetuissa viitekehyksissä
 4. **Versionhallinta** — Seuraa viitekehysversioita standardien päivittyessä
 

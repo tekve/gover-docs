@@ -50,12 +50,12 @@ Dokumentit yhdistyvät:
 
 ```mermaid
 flowchart LR
-    D[Dokumentti] --> C[Kontrollit]
+    D[Dokumentti] --> C[Hallintakeinot]
     D --> T[Tehtävät]
     D --> R[Vaatimukset]
 ```
 
-- **Kontrollit** — Todisteet tukevat kontrolleja
+- **Hallintakeinot** — Todisteet tukevat hallintakeinoja
 - **Tehtävät** — Tehtävien tuotokset
 - **Vaatimukset** — Suorat vaatimustodisteet
 
@@ -65,7 +65,7 @@ flowchart LR
 | -------------- | ---------------------------------- |
 | **Lataa**      | Lisää tiedostoja kirjastoon        |
 | **Luo**        | Kirjoita dokumentteja Goverissa    |
-| **Yhdistä**    | Linkitä kontrolleihin ja tehtäviin |
+| **Yhdistä**    | Linkitä hallintakeinoihin ja tehtäviin |
 | **Esikatsele** | Tarkastele dokumentin sisältöä     |
 | **Vie**        | Lataa dokumentteja                 |
 
@@ -73,4 +73,4 @@ flowchart LR
 
 - [Dokumenttien lataaminen](./uploading) — Lisää tiedostoja Goveriin
 - [Dokumenttieditori](./editor) — Luo dokumentteja Goverissa
-- [Dokumenttien yhdistäminen](./mapping) — Linkitä dokumentteja kontrolleihin
+- [Dokumenttien yhdistäminen](./mapping) — Linkitä dokumentteja hallintakeinoihin

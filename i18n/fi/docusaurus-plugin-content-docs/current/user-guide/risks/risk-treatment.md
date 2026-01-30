@@ -11,7 +11,7 @@ Riskien käsittely on prosessi, jossa tunnistettuihin riskeihin puututaan niiden
 ```mermaid
 flowchart TD
     RA[Riskinarviointi] --> A{Käsittely?}
-    A -->|Lievennä| M[Implementoi kontrollit]
+    A -->|Lievennä| M[Implementoi hallintakeinot]
     A -->|Lievennä| T[Luo tehtävät]
     A -->|Hyväksy| AC[Monitoroi & Tarkista]
     A -->|Siirrä| TR[Vakuutus/Ulkoistus]
@@ -20,10 +20,10 @@ flowchart TD
 
 ### Lievennä
 
-Implementoi kontrolleja todennäköisyyden tai vaikutuksen vähentämiseksi.
+Implementoi hallintakeinoja todennäköisyyden tai vaikutuksen vähentämiseksi.
 
 - Yleisin käsittelytapa
-- Linkittyy kontrollikirjastoon
+- Linkittyy hallintakeinokirjastoon
 - Vähentää jäännösriskiä
 
 ### Hyväksy
@@ -66,24 +66,24 @@ Jokaiselle käsittelylle dokumentoi:
 | --------------------- | -------------------------------------- |
 | **Käsittelytyyppi**   | Lievennä, Hyväksy, Siirrä, Vältä       |
 | **Kuvaus**            | Miten riskiä käsitellään               |
-| **Kontrollit**        | Yhdistetyt kontrollit (lieventämiseen) |
+| **Hallintakeinot**        | Yhdistetyt hallintakeinot (lieventämiseen) |
 | **Omistaja**          | Vastuuhenkilö                          |
 | **Tavoitepäivämäärä** | Milloin käsittelyn tulisi olla valmis  |
 | **Tila**              | Käsittelyn edistyminen                 |
 
-## Kontrollien yhdistäminen
+## Hallintakeinoen yhdistäminen
 
 Lieventämiskäsittelyä varten:
 
 1. Avaa riski
-2. Mene **Kontrollit** -välilehdelle
-3. Klikkaa **Yhdistä kontrollit**
-4. Valitse kontrollit, jotka käsittelevät tätä riskiä
+2. Mene **Hallintakeinot** -välilehdelle
+3. Klikkaa **Yhdistä hallintakeinot**
+4. Valitse hallintakeinot, jotka käsittelevät tätä riskiä
 5. Vahvista yhdistäminen
 
 Tämä näyttää:
 
-- Mitkä kontrollit lieventävät riskiä
+- Mitkä hallintakeinot lieventävät riskiä
 - Odotettu riskin väheneminen
 - Puutteet kattavuudessa
 
@@ -91,7 +91,7 @@ Tämä näyttää:
 
 Käsittelyn jälkeen arvioi jäännösriski:
 
-1. Implementoi suunnitellut kontrollit
+1. Implementoi suunnitellut hallintakeinot
 2. Suorita jäännösriskin arviointi
 3. Vertaa kokonaisriskiin
 4. Varmista, että riski on riskinottohalukkuuden rajoissa
@@ -99,7 +99,7 @@ Käsittelyn jälkeen arvioi jäännösriski:
 ### Jäännösriskin kaava
 
 ```
-Jäännösriski = Kokonaisriski - Kontrollin tehokkuus
+Jäännösriski = Kokonaisriski - Hallintakeinon tehokkuus
 ```
 
 ## Käsittelytehtävät

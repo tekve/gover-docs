@@ -12,7 +12,7 @@ Riskienhallinta on prosessi, jossa:
 
 1. **Tunnistetaan** potentiaaliset uhat ja haavoittuvuudet
 2. **Arvioidaan** niiden todennäköisyys ja vaikutus
-3. **Käsitellään** riskejä kontrollien ja muiden toimenpiteiden avulla
+3. **Käsitellään** riskejä hallintakeinoen ja muiden toimenpiteiden avulla
 4. **Monitoroidaan** riskitasoja ajan myötä
 
 ```mermaid
@@ -47,7 +47,7 @@ Arvioi riskejä käyttäen:
 
 Käsittele riskejä seuraavin tavoin:
 
-- Lieventäminen (implementoi kontrollit)
+- Lieventäminen (implementoi hallintakeinot)
 - Hyväksyminen (tiedosta ja monitoroi)
 - Siirtäminen (vakuutus, ulkoistaminen)
 - Välttäminen (poista riskin lähde)
@@ -56,8 +56,8 @@ Käsittele riskejä seuraavin tavoin:
 
 | Käsite                  | Kuvaus                                            |
 | ----------------------- | ------------------------------------------------- |
-| **Kokonaisriski**       | Riskitaso ennen kontrolleja                       |
-| **Jäännösriski**        | Riskitaso kontrollien soveltamisen jälkeen        |
+| **Kokonaisriski**       | Riskitaso ennen hallintakeinoja                       |
+| **Jäännösriski**        | Riskitaso hallintakeinoen soveltamisen jälkeen        |
 | **Riskinottohalukkuus** | Riskitaso, jonka organisaatio hyväksyy            |
 | **Riskipisteet**        | Laskettu arvo arviointikenttien perusteella       |
 | **Riskitaso**           | Kategoria (Kriittinen, Korkea, Keskitaso, Matala) |
@@ -83,7 +83,7 @@ flowchart TD
     A[Tunnista riski] --> B[Luo riskikirjaus]
     B --> C[Suorita arviointi]
     C --> D{Riskitaso?}
-    D -->|Korkea/Kriittinen| E[Implementoi kontrollit]
+    D -->|Korkea/Kriittinen| E[Implementoi hallintakeinot]
     D -->|Keskitaso| F[Suunnittele käsittely]
     D -->|Matala| G[Hyväksy & Monitoroi]
     E --> H[Arvioi uudelleen]
