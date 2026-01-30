@@ -11,7 +11,6 @@ Hallitse mallipohjia, löydä uutta sisältöä ja julkaise markkinapaikalle.
 Sisältöhubi on keskitetty paikka, josta löydät:
 
 - **Mallipohjat** — Valmiiksi rakennetut viitekehykset, kontrollit ja dokumentit
-- **Oma sisältö** — Sisältö, jonka olet luonut ja julkaissut
 - **Löytäminen** — Selaa markkinapaikan sisältöä
 - **Asennetut** — Sisältö, jonka olet lisännyt työtilaasi
 
@@ -37,45 +36,6 @@ Siirry kohtaan **Organisaatioasetukset** → **Sisältöhubi**
 | **Kontrollit**    | Kontrollikirjastot             |
 | **Dokumentit**    | Dokumenttimallit               |
 | **Riskimallit**   | Esimääritellyt riskit          |
-
-## Oma sisältö
-
-### Sisältösi tarkastelu
-
-Näe julkaisemasi sisältö:
-
-- Julkaistut kohteet
-- Luonnokset
-- Käyttötilastot
-
-### Sisällön julkaiseminen
-
-Jaa sisältösi muiden kanssa:
-
-1. Mene kohtaan **Oma sisältö**
-2. Klikkaa **Julkaise**
-3. Valitse julkaistava sisältö:
-   - Viitekehys
-   - Kontrollijoukko
-   - Dokumenttimalli
-4. Lisää metatiedot:
-   - Otsikko
-   - Kuvaus
-   - Kategoria
-   - Tunnisteet
-5. Valitse näkyvyys:
-   - **Yksityinen** — Vain omalle organisaatiollesi
-   - **Julkinen** — Saatavilla markkinapaikalla
-6. Julkaise
-
-### Julkaistun sisällön hallinta
-
-Muokkaa tai poista julkaisu:
-
-1. Valitse julkaistu kohde
-2. Klikkaa **Muokkaa** tai **Poista julkaisu**
-3. Tee muutokset
-4. Tallenna
 
 ## Löytäminen
 

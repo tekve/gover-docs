@@ -10,7 +10,6 @@ Manage templates, discover content, and publish to the marketplace.
 
 Content Hub is your central place for:
 - **Templates** — Pre-built frameworks, controls, and documents
-- **My Content** — Content you've created and published
 - **Discovery** — Browse marketplace content
 - **Installed** — Content you've added to your workspace
 
@@ -36,42 +35,6 @@ Navigate to **Organization Settings** → **Content Hub**
 | **Controls** | Control libraries |
 | **Documents** | Document templates |
 | **Risk Templates** | Pre-defined risks |
-
-## My Content
-
-### Viewing Your Content
-See content you've published:
-- Published items
-- Draft items
-- Usage statistics
-
-### Publishing Content
-
-Share your content with others:
-
-1. Go to **My Content**
-2. Click **Publish**
-3. Select content to publish:
-   - Framework
-   - Control set
-   - Document template
-4. Add metadata:
-   - Title
-   - Description
-   - Category
-   - Tags
-5. Choose visibility:
-   - **Private** — Only your organization
-   - **Public** — Available in marketplace
-6. Publish
-
-### Managing Published Content
-
-Edit or unpublish your content:
-1. Select published item
-2. Click **Edit** or **Unpublish**
-3. Make changes
-4. Save
 
 ## Discovery
 
