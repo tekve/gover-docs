@@ -18,8 +18,9 @@ flowchart LR
     R --> C[Controls]
     C --> D[Documents]
     C --> T[Tasks]
-    RI[Risks] --> C
-    RA[Risk Assessments] --> RI
+    RI[Risks] --> RA[Risk Assessments]
+    RA --> C
+    RA --> T
 ```
 
 ## Key Features

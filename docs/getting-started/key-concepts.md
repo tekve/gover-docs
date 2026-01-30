@@ -21,8 +21,8 @@ flowchart TB
         RI[Risks] --> RA[Risk Assessments]
     end
     R -.->|mapped to| C
-    RI -.->|mitigated by| C
-    RA -.->|evaluates| RI
+    RA -.->|mitigated by| C
+    RA -.->|creates| T
 ```
 
 ## Frameworks

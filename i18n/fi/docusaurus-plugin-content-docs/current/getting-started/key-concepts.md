@@ -21,8 +21,8 @@ flowchart TB
         RI[Riskit] --> RA[Riskiarvioinnit]
     end
     R -.->|yhdistetty| C
-    RI -.->|lievennetty| C
-    RA -.->|arvioi| RI
+    RA -.->|lievennetty| C
+    RA -.->|luo| T
 ```
 
 ## Viitekehykset
