@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Requirements
 
-Requirements are the specific compliance criteria within a framework that your organization must address.
+Requirements are the criteria within a framework that your organization must meet.
 
 ## Understanding Requirements
 
@@ -21,13 +21,17 @@ flowchart LR
 ## Viewing Requirements
 
 ### Tree View
-Navigate requirements in their hierarchical structure:
+
+Browse requirements in their hierarchical structure:
+
 - Expand/collapse categories
 - See readiness status at each level
 - Quick access to requirement details
 
 ### List View
+
 View all requirements in a filterable table:
+
 - Sort by any column
 - Filter by status, category, or custom fields
 - Bulk actions available
@@ -94,7 +98,7 @@ Use filters to find specific requirements:
 
 ## Bulk Actions
 
-Select multiple requirements to:
+Select multiple requirements:
 
 - Export to CSV/Excel
 - Bulk update custom fields
@@ -109,5 +113,5 @@ Select multiple requirements to:
 
 ## Next Steps
 
-- [Readiness Tracking](./readiness-tracking) — Monitor overall compliance
+- [Readiness Tracking](./readiness-tracking) — Monitor overall readiness
 - [Controls Overview](../controls/overview) — Learn about control management

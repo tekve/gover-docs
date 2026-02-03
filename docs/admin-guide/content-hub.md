@@ -9,6 +9,7 @@ Manage templates, discover content, and publish to the marketplace.
 ## What is Content Hub?
 
 Content Hub is your central place for:
+
 - **Templates** — Pre-built frameworks, controls, and documents
 - **Discovery** — Browse marketplace content
 - **Installed** — Content you've added to your workspace
@@ -58,6 +59,7 @@ Navigate to **Organization Settings** → **Content Hub**
 ### Content Details
 
 Before installing, review:
+
 - Description
 - Publisher
 - Ratings and reviews
@@ -66,7 +68,9 @@ Before installing, review:
 ## Installed Content
 
 ### Viewing Installed Content
+
 See what you've installed:
+
 - Source (marketplace/template)
 - Installation date
 - Workspace
@@ -74,6 +78,7 @@ See what you've installed:
 ### Managing Installed Content
 
 Installed content becomes yours to customize:
+
 - Edit as needed
 - No automatic updates
 - Delete if not needed
@@ -103,6 +108,7 @@ Bundle related content together:
 ### Installing Packs
 
 Install entire packs at once:
+
 1. Find pack in Discovery
 2. Click **Install Pack**
 3. All items are added together

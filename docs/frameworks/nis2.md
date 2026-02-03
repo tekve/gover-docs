@@ -12,12 +12,13 @@ The NIS2 Directive strengthens cybersecurity requirements across the EU.
 |-----------|-------|
 | **Full Name** | Network and Information Security Directive 2 |
 | **Jurisdiction** | European Union |
-| **Effective Date** | October 2024 (transposition deadline) |
+| **Effective Date** | October 2024 (transition period ended) |
 | **Applies To** | Essential and important entities |
 
 ## Scope
 
 ### Essential Entities
+
 - Energy
 - Transport
 - Banking
@@ -26,6 +27,7 @@ The NIS2 Directive strengthens cybersecurity requirements across the EU.
 - Public administration
 
 ### Important Entities
+
 - Postal services
 - Waste management
 - Manufacturing
@@ -35,6 +37,7 @@ The NIS2 Directive strengthens cybersecurity requirements across the EU.
 ## Key Requirements
 
 ### Risk Management (Article 21)
+
 - Risk analysis and security policies
 - Incident handling
 - Business continuity
@@ -47,12 +50,14 @@ The NIS2 Directive strengthens cybersecurity requirements across the EU.
 - Access control
 
 ### Incident Reporting (Article 23)
+
 - Early warning within 24 hours
 - Incident notification within 72 hours
 - Final report within one month
 
 ### Governance
-- Management body approval
+
+- Management approval
 - Cybersecurity training
 - Personal accountability
 
@@ -67,6 +72,7 @@ The NIS2 Directive strengthens cybersecurity requirements across the EU.
 ### 2. Assess Your Scope
 
 Determine if you're an essential or important entity based on:
+
 - Sector
 - Size
 - Criticality
@@ -74,32 +80,35 @@ Determine if you're an essential or important entity based on:
 ### 3. Map Controls to Requirements
 
 Map your security controls to NIS2 Article 21 requirements:
+
 - Risk management policies
-- Incident response procedures
+- Incident management processes
 - Business continuity plans
 - Supply chain security measures
 
 ### 4. Implement Reporting
 
 Ensure you can meet reporting timelines:
-- 24-hour early warning capability
-- 72-hour notification process
-- Final report procedures
+
+- 24h early warning capability
+- 72h notification process
+- Final reporting procedures
 
 ## Recommended Controls
 
 | NIS2 Area | Recommended Controls |
 |-----------|---------------------|
-| **Risk Management** | Risk Assessment Process, Security Policy |
-| **Incident Handling** | Incident Response Plan, SIEM |
-| **Business Continuity** | BCP, Disaster Recovery |
-| **Supply Chain** | Vendor Assessment, Third-party Risk |
+| **Risk Management** | Risk assessment process, Information security policy |
+| **Incident Handling** | Incident response plan, SIEM |
+| **Business Continuity** | BCP, Disaster Recovery plan |
+| **Supply Chain** | Vendor assessment, Third-party risk |
 | **Access Control** | IAM, MFA, Privileged Access |
-| **Cryptography** | Encryption Policy, Key Management |
+| **Cryptography** | Encryption policy, Key management |
 
 ## Penalties
 
 NIS2 introduces significant penalties:
+
 - Essential entities: Up to €10M or 2% of global turnover
 - Important entities: Up to €7M or 1.4% of global turnover
 

@@ -73,11 +73,12 @@ Import multiple controls at once:
 ### Categories
 
 Organize controls into categories:
-- Security Controls
-- Privacy Controls
-- Operational Controls
-- Technical Controls
-- Administrative Controls
+
+- Security controls
+- Privacy controls
+- Operational controls
+- Technical controls
+- Administrative controls
 
 :::tip
 Create a category structure that matches your organization's needs.
@@ -86,6 +87,7 @@ Create a category structure that matches your organization's needs.
 ### Custom Fields
 
 Add custom fields for additional tracking:
+
 - Implementation date
 - Review frequency
 - Compliance scope
@@ -94,6 +96,7 @@ Add custom fields for additional tracking:
 ### Tags
 
 Use tags for flexible grouping:
+
 - Cross-cutting concerns
 - Project associations
 - Priority levels

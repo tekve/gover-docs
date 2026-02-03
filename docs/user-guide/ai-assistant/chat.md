@@ -13,25 +13,33 @@ Click the **AI Assistant** icon in the sidebar to open the chat panel.
 ## Chat Capabilities
 
 ### Ask Questions
+
 Ask about your compliance data:
+
 - "What controls are mapped to GDPR Article 32?"
 - "Show me high-risk items"
 - "What requirements don't have controls?"
 
 ### Get Guidance
+
 Ask for compliance guidance:
+
 - "How should I approach ISO 27001 certification?"
 - "What controls are typically needed for access management?"
 - "Explain the difference between inherent and residual risk"
 
 ### Navigate
+
 Ask AI to help you find things:
+
 - "Take me to the risk register"
 - "Show me the Access Control Policy document"
 - "Open the ISO 27001 framework"
 
 ### Create Content
+
 Ask AI to help draft content:
+
 - "Help me write a description for an access control policy"
 - "Suggest a risk description for data breach"
 
@@ -47,6 +55,7 @@ Ask AI to help draft content:
 ### Follow-up Questions
 
 Continue the conversation:
+
 - Ask clarifying questions
 - Request more details
 - Refine your request
@@ -54,6 +63,7 @@ Continue the conversation:
 ### Chat History
 
 Access previous conversations:
+
 1. Click the history icon
 2. Select a past conversation
 3. Continue where you left off
@@ -61,6 +71,7 @@ Access previous conversations:
 ## Example Conversations
 
 ### Finding Gaps
+
 ```
 You: What requirements in ISO 27001 don't have mapped controls?
 
@@ -72,10 +83,11 @@ Would you like me to suggest controls for these?
 ```
 
 ### Getting Suggestions
+
 ```
 You: Suggest controls for A.5.1.1
 
-AI: Based on the requirement "Policies for information security", 
+AI: Based on the requirement "Policies for information security",
 I recommend these controls:
 1. Information Security Policy (90% match)
 2. Security Policy Framework (85% match)

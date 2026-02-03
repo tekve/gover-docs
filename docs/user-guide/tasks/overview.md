@@ -2,13 +2,14 @@
 sidebar_position: 1
 ---
 
-# Tasks Overview
+# Tasks
 
 Tasks help you track compliance activities, assignments, and deadlines.
 
 ## What are Tasks?
 
 Tasks represent work items in your compliance program:
+
 - Control implementation
 - Document reviews
 - Risk assessments
@@ -18,13 +19,17 @@ Tasks represent work items in your compliance program:
 ## Task Views
 
 ### Kanban Board
+
 Visual board with columns for each status:
+
 - Drag and drop to change status
 - See work in progress at a glance
 - Identify bottlenecks
 
 ### List View
+
 Traditional table view:
+
 - Sort by any column
 - Filter by multiple criteria
 - Bulk actions
@@ -56,8 +61,8 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A[To Do] --> B[In Progress]
-    B --> C[Review]
+    A[Task] --> B[In Progress]
+    B --> C[In Review]
     C --> D[Done]
     C -->|Needs Work| B
 ```

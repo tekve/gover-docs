@@ -9,6 +9,7 @@ Gover provides comprehensive risk management capabilities to identify, assess, a
 ## What is Risk Management?
 
 Risk management is the process of:
+
 1. **Identifying** potential threats and vulnerabilities
 2. **Assessing** their likelihood and impact
 3. **Treating** risks through controls and other measures
@@ -25,21 +26,27 @@ flowchart LR
 ## Risk Management in Gover
 
 ### Risk Register
+
 Central repository of all identified risks with:
+
 - Risk descriptions
 - Categories and tags
 - Ownership
 - Treatment status
 
 ### Risk Assessments
+
 Evaluate risks using:
+
 - Customizable scoring fields
 - Impact and likelihood ratings
 - Calculated risk scores
 - Risk level mappings
 
 ### Risk Treatment
+
 Address risks through:
+
 - Mitigation (implement controls)
 - Acceptance (acknowledge and monitor)
 - Transfer (insurance, outsourcing)
@@ -58,12 +65,15 @@ Address risks through:
 ## Risk Views
 
 ### List View
+
 All risks in a filterable, sortable table.
 
 ### Heatmap
+
 Visual representation of risks by impact and likelihood.
 
 ### Overview Dashboard
+
 Summary metrics and trends.
 
 ## Risk Workflow
@@ -83,7 +93,7 @@ flowchart TD
 
 ## Next Steps
 
-- [Risk Register](./risk-register) — Managing your risks
+- [Risk Register](./risk-register) — Managing risks
 - [Risk Assessments](./risk-assessments) — Evaluating risks
 - [Risk Treatment](./risk-treatment) — Addressing risks
 - [Heatmap](./heatmap) — Visualizing risks

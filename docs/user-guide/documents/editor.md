@@ -63,22 +63,27 @@ Use templates for common document types:
 4. Save
 
 ### Available Templates
-- Policy Template
-- Procedure Template
-- Report Template
-- Meeting Minutes
+
+- Policy template
+- Procedure template
+- Report template
+- Meeting minutes
 
 ## Collaboration
 
 ### Comments
+
 Add comments to discuss content:
+
 1. Select text
 2. Click comment icon
 3. Add your comment
 4. Resolve when addressed
 
 ### History
+
 View document history:
+
 - See all changes
 - Compare versions
 - Restore previous versions
@@ -86,12 +91,16 @@ View document history:
 ## Saving and Publishing
 
 ### Draft
+
 Documents start as drafts:
+
 - Only visible to editors
 - Can be edited freely
 
 ### Published
+
 Publish when ready:
+
 1. Click **Publish**
 2. Document becomes official
 3. Changes create new versions
@@ -99,6 +108,7 @@ Publish when ready:
 ## Exporting
 
 Export documents in various formats:
+
 - PDF
 - Word (DOCX)
 - Markdown

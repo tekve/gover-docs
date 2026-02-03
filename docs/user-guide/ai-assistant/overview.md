@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# AI Assistant Overview
+# AI Assistant
 
 Gover's AI Assistant helps you work smarter with intelligent suggestions and automation.
 
@@ -20,19 +20,25 @@ The AI Assistant helps with:
 ## AI Features
 
 ### Chat Assistant
+
 Conversational interface to:
+
 - Ask questions about your compliance data
 - Get guidance on compliance topics
 - Navigate to relevant items
 
 ### Smart Suggestions
+
 Automated recommendations for:
+
 - Control mappings to requirements
 - Document mappings to controls
 - Risk treatment options
 
 ### Content Assistance
+
 Help with writing:
+
 - Control descriptions
 - Risk descriptions
 - Document content
@@ -49,6 +55,7 @@ flowchart LR
 ```
 
 The AI:
+
 1. Analyzes your question or context
 2. Reviews your workspace data
 3. Applies compliance knowledge

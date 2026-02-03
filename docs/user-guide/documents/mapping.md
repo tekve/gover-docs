@@ -9,6 +9,7 @@ Link documents to controls, tasks, and other entities as evidence.
 ## Why Map Documents?
 
 Mapping creates traceability:
+
 - Shows evidence for controls
 - Links deliverables to tasks
 - Supports audit requirements
@@ -60,15 +61,20 @@ AI analyzes document content and control descriptions to find matches.
 ## Viewing Mappings
 
 ### Document View
+
 See all entities linked to a document:
+
 - Controls tab
 - Tasks tab
 
 ### Control View
+
 See all documents linked to a control:
+
 - Documents tab
 
 ### Matrix View
+
 See document-control mappings in a matrix format.
 
 ## Bulk Mapping

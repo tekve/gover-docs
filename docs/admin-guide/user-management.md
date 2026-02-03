@@ -107,6 +107,7 @@ When someone leaves:
 ## Audit Trail
 
 Track user actions:
+
 - Login history
 - Content changes
 - Permission changes

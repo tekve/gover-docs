@@ -25,6 +25,7 @@ Navigate to **Tasks** → **All Tasks**
 ## Sorting
 
 Click column headers to sort:
+
 - Click once for ascending
 - Click again for descending
 - Sort by any column
@@ -34,11 +35,13 @@ Click column headers to sort:
 Use the filter bar to narrow results:
 
 ### Quick Filters
+
 - **My Tasks** — Tasks assigned to you
 - **Overdue** — Past due date
 - **Due This Week** — Upcoming deadlines
 
 ### Advanced Filters
+
 - Status
 - Assignee
 - Priority
@@ -75,26 +78,31 @@ Select multiple tasks for bulk operations:
 Click a task to see full details:
 
 ### Overview Tab
+
 - Title and description
 - Status and priority
 - Assignee and due date
 
 ### Related Tab
+
 - Linked controls
 - Linked documents
 - Linked risk assessments
 
 ### Comments Tab
+
 - Team discussions
 - Activity log
 
 ### History Tab
+
 - Change history
 - Audit trail
 
 ## Exporting
 
 Export task list:
+
 1. Apply desired filters
 2. Click **Export**
 3. Choose format (CSV, Excel)

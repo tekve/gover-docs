@@ -9,6 +9,7 @@ Organize your controls into logical categories for easier management.
 ## Why Categorize?
 
 Categories help you:
+
 - Find controls quickly
 - Report by category
 - Assign ownership by area
@@ -19,13 +20,15 @@ Categories help you:
 Gover provides common category structures:
 
 ### By Domain
+
 - Information Security
-- Privacy & Data Protection
+- Privacy and Data Protection
 - Business Continuity
 - Physical Security
 - Human Resources
 
 ### By Type
+
 - Technical Controls
 - Administrative Controls
 - Physical Controls
@@ -48,7 +51,7 @@ Gover provides common category structures:
 ### Edit Categories
 
 1. Go to **Controls** → **Settings** → **Categories**
-2. Click on a category
+2. Click a category
 3. Modify details
 4. Save changes
 
@@ -84,20 +87,23 @@ Security Controls
 ## Assigning Controls to Categories
 
 ### Single Control
+
 1. Open the control
 2. Edit the **Category** field
-3. Select from dropdown
+3. Select from the dropdown
 4. Save
 
 ### Bulk Assignment
+
 1. Select multiple controls
 2. Click **Bulk Actions** → **Set Category**
-3. Choose category
+3. Choose a category
 4. Apply
 
 ## Category Reports
 
 Generate reports by category:
+
 - Control count per category
 - Implementation status by category
 - Mapping coverage by category

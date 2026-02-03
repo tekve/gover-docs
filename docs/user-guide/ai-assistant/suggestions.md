@@ -9,12 +9,15 @@ Get intelligent recommendations for mappings and content.
 ## Types of Suggestions
 
 ### Control-to-Requirement Mapping
+
 AI suggests which controls satisfy which requirements.
 
 ### Document-to-Control Mapping
+
 AI suggests which documents serve as evidence for controls.
 
 ### Risk Treatment
+
 AI suggests controls to mitigate identified risks.
 
 ## Getting Suggestions
@@ -57,6 +60,7 @@ Each suggestion includes a confidence score:
 ### Reasoning
 
 AI provides reasoning for each suggestion:
+
 - Text similarity analysis
 - Existing mapping patterns
 - Industry best practices
@@ -64,20 +68,25 @@ AI provides reasoning for each suggestion:
 ## Working with Suggestions
 
 ### Accept
+
 Click **Accept** to create the mapping.
 
 ### Reject
+
 Click **Reject** to dismiss the suggestion.
 
 ### Modify
+
 Accept the suggestion, then modify the mapping as needed.
 
 ### Bulk Accept
+
 Select multiple suggestions and accept them all at once.
 
 ## Suggestion Quality
 
 AI suggestions improve when:
+
 - You have more existing mappings (AI learns patterns)
 - Descriptions are detailed and clear
 - You provide feedback by accepting/rejecting

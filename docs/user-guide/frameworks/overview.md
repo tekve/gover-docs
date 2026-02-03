@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Frameworks Overview
+# Frameworks
 
 Frameworks are the foundation of compliance management in Gover. They define the requirements your organization needs to meet.
 
@@ -25,13 +25,13 @@ flowchart TD
 
 ## Supported Frameworks
 
-Gover supports a wide range of compliance frameworks:
+Gover supports a wide range of frameworks:
 
 | Framework | Type | Description |
 |-----------|------|-------------|
 | **ISO 27001** | Standard | Information security management system |
 | **GDPR** | Regulation | EU data protection regulation |
-| **NIS2** | Directive | EU network and information security |
+| **NIS2** | Directive | EU network and information security directive |
 | **Kybermittari** | Assessment | Finnish cybersecurity assessment tool |
 | **CRA** | Regulation | EU Cyber Resilience Act |
 | **ISO 9001** | Standard | Quality management system |
@@ -42,12 +42,15 @@ Gover supports a wide range of compliance frameworks:
 ## Framework Views
 
 ### Card View
+
 See all your frameworks at a glance with readiness indicators.
 
 ### Tree View
+
 Navigate the hierarchical structure of requirements within a framework.
 
 ### Requirements List
+
 View all requirements in a filterable, sortable list.
 
 ## Readiness Tracking

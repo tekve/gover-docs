@@ -10,14 +10,15 @@ Kybermittari is Finland's national cybersecurity assessment tool.
 
 | Attribute | Value |
 |-----------|-------|
-| **Full Name** | Kybermittari (Cyber Meter) |
+| **Full Name** | Kybermittari |
 | **Jurisdiction** | Finland |
-| **Publisher** | Traficom / NCSC-FI |
+| **Publisher** | Traficom / Finnish Cyber Security Centre |
 | **Type** | Self-assessment tool |
 
 ## Purpose
 
 Kybermittari helps Finnish organizations:
+
 - Assess cybersecurity maturity
 - Identify improvement areas
 - Benchmark against best practices
@@ -35,7 +36,7 @@ Kybermittari helps Finnish organizations:
 | **Access Control** | Identity and access management |
 | **Operations** | Security operations, monitoring |
 | **Incident Management** | Detection, response, recovery |
-| **Continuity** | Business continuity, disaster recovery |
+| **Continuity** | Business continuity, recovery planning |
 | **Compliance** | Legal and regulatory requirements |
 
 ### Maturity Levels
@@ -59,6 +60,7 @@ Kybermittari helps Finnish organizations:
 ### 2. Perform Self-Assessment
 
 For each requirement:
+
 1. Review the requirement
 2. Assess your current maturity level
 3. Document evidence
@@ -67,6 +69,7 @@ For each requirement:
 ### 3. Map Controls
 
 Link your existing controls to Kybermittari requirements:
+
 - Security policies
 - Technical controls
 - Processes and procedures
@@ -74,6 +77,7 @@ Link your existing controls to Kybermittari requirements:
 ### 4. Track Improvement
 
 Use Gover to:
+
 - Monitor maturity progress
 - Plan improvement initiatives
 - Track implementation
@@ -94,6 +98,7 @@ flowchart TD
 ## Alignment with Other Frameworks
 
 Kybermittari aligns with:
+
 - **ISO 27001** — Information security
 - **NIS2** — EU cybersecurity directive
 - **NIST CSF** — Cybersecurity framework
@@ -101,7 +106,7 @@ Kybermittari aligns with:
 ## Resources
 
 - [Traficom Kybermittari](https://www.kyberturvallisuuskeskus.fi/fi/palvelumme/tilannekuva-ja-verkostojohtaminen/kybermittari)
-- [NCSC-FI](https://www.kyberturvallisuuskeskus.fi/)
+- [Finnish Cyber Security Centre](https://www.kyberturvallisuuskeskus.fi/)
 
 ## Next Steps
 

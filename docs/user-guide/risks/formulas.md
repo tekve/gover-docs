@@ -42,16 +42,19 @@ Build formulas using:
 ### Example Formulas
 
 **Simple Multiplication**
+
 ```
 Likelihood × Impact
 ```
 
 **Weighted Average**
+
 ```
 (Likelihood × 0.4) + (Impact × 0.6)
 ```
 
 **Complex Formula**
+
 ```
 ((Likelihood × Impact) + (Financial × 0.3)) / 2
 ```
@@ -108,6 +111,7 @@ Navigate to **Risks** → **Settings** → **Score Fields**
 - **Active Formulas** — Available for selection
 
 Set a formula as default:
+
 1. Open the formula
 2. Toggle **Set as Default**
 3. Save

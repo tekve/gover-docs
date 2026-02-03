@@ -11,11 +11,13 @@ The risk register is your central repository for all identified risks.
 Navigate to **Risks** to see your risk register.
 
 ### List View
+
 - Sortable columns
 - Filterable by status, category, level
 - Quick actions
 
 ### Card View
+
 - Visual risk cards
 - Status indicators
 - Quick preview
@@ -44,7 +46,7 @@ Navigate to **Risks** to see your risk register.
 ### Bulk Import
 
 1. Go to **Risks** → **Import**
-2. Download template
+2. Download the template
 3. Fill in risks
 4. Upload and confirm
 
@@ -63,12 +65,13 @@ Navigate to **Risks** to see your risk register.
 ## Risk Categories
 
 Organize risks by category:
-- Strategic Risks
-- Operational Risks
-- Financial Risks
-- Compliance Risks
-- Technology Risks
-- Reputational Risks
+
+- Strategic risks
+- Operational risks
+- Financial risks
+- Compliance risks
+- Technology risks
+- Reputational risks
 
 ## Risk Status
 
@@ -83,6 +86,7 @@ Organize risks by category:
 ## Filtering Risks
 
 Filter your risk register by:
+
 - **Risk Level** — Critical, High, Medium, Low
 - **Category** — Risk category
 - **Owner** — Assigned owner
@@ -94,24 +98,29 @@ Filter your risk register by:
 Click on a risk to see:
 
 ### Overview Tab
+
 - Risk description
 - Current risk level
 - Owner and status
 
 ### Assessments Tab
+
 - Assessment history
 - Current scores
 - Trend over time
 
 ### Controls Tab
+
 - Mapped controls
 - Control effectiveness
 
 ### Tasks Tab
+
 - Related tasks
 - Treatment actions
 
 ### History Tab
+
 - Change log
 - Audit trail
 

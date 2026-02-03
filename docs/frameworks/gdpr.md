@@ -10,7 +10,7 @@ The General Data Protection Regulation (GDPR) is the EU's comprehensive data pro
 
 | Attribute | Value |
 |-----------|-------|
-| **Full Name** | General Data Protection Regulation |
+| **Full Name** | General Data Protection Regulation (Yleinen tietosuoja-asetus) |
 | **Jurisdiction** | European Union |
 | **Effective Date** | May 25, 2018 |
 | **Applies To** | Organizations processing EU residents' data |
@@ -18,6 +18,7 @@ The General Data Protection Regulation (GDPR) is the EU's comprehensive data pro
 ## Key Requirements
 
 ### Data Protection Principles (Article 5)
+
 - Lawfulness, fairness, transparency
 - Purpose limitation
 - Data minimization
@@ -27,6 +28,7 @@ The General Data Protection Regulation (GDPR) is the EU's comprehensive data pro
 - Accountability
 
 ### Data Subject Rights (Articles 12-23)
+
 - Right to access
 - Right to rectification
 - Right to erasure
@@ -34,6 +36,7 @@ The General Data Protection Regulation (GDPR) is the EU's comprehensive data pro
 - Right to object
 
 ### Security (Article 32)
+
 - Appropriate technical measures
 - Appropriate organizational measures
 - Risk-based approach
@@ -49,6 +52,7 @@ The General Data Protection Regulation (GDPR) is the EU's comprehensive data pro
 ### 2. Map Your Controls
 
 Map existing controls to GDPR requirements:
+
 - Data protection policies
 - Access controls
 - Encryption measures
@@ -57,14 +61,16 @@ Map existing controls to GDPR requirements:
 ### 3. Document Evidence
 
 Link evidence documents:
+
 - Privacy policies
-- Data processing agreements
+- Data processing agreements (DPA)
 - Consent records
-- DPIA reports
+- DPIA reports (Data Protection Impact Assessment)
 
 ### 4. Track Readiness
 
 Monitor your GDPR compliance:
+
 - Overall readiness percentage
 - Gaps by article
 - Action items
@@ -73,20 +79,21 @@ Monitor your GDPR compliance:
 
 | GDPR Area | Recommended Controls |
 |-----------|---------------------|
-| **Article 5** | Data Protection Policy, Data Classification |
-| **Article 25** | Privacy by Design Procedures |
+| **Article 5** | Information Security Policy, Data Classification |
+| **Article 25** | Privacy by Design and by Default procedures |
 | **Article 30** | Records of Processing Activities |
-| **Article 32** | Security Controls, Encryption, Access Control |
-| **Article 33** | Incident Response Plan |
-| **Article 35** | DPIA Process |
+| **Article 32** | Security controls, Encryption, Access Control |
+| **Article 33** | Data breach response plan |
+| **Article 35** | DPIA process |
 
 ## Common Gaps
 
 Watch for these common GDPR gaps:
-- Missing data processing records
+
+- Missing records of processing activities
 - Incomplete consent mechanisms
-- Lack of DPIA for high-risk processing
-- Inadequate breach notification procedures
+- Missing DPIA for high-risk processing
+- Inadequate procedures for breach notifications
 
 ## Resources
 

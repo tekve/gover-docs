@@ -9,6 +9,7 @@ Verify that your controls are operating effectively through testing.
 ## Why Test Controls?
 
 Control testing ensures:
+
 - Controls are implemented as designed
 - Controls are operating effectively
 - Evidence exists for auditors
@@ -58,6 +59,7 @@ After performing a test:
 ## Test History
 
 View historical test results:
+
 - Trend over time
 - Pass/fail rates
 - Tester information

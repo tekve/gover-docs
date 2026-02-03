@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Learn how to add compliance frameworks to your Gover workspace.
 
-## Methods to Add Frameworks
+## Ways to Add Frameworks
 
 ### 1. From Templates
 
@@ -29,7 +29,7 @@ Access community and marketplace frameworks.
 
 1. Go to **Frameworks** → **Add Framework**
 2. Select **Content Hub**
-3. Browse **Discovery** for available frameworks
+3. Browse the **Discovery** section for frameworks
 4. Click **Install** to add to your workspace
 
 ### 3. Custom Framework
@@ -49,19 +49,24 @@ Create your own framework from scratch.
 After adding a framework, configure its settings:
 
 ### General Settings
+
 - **Name** — Display name for the framework
 - **Description** — Overview of the framework
 - **Version** — Framework version number
 
 ### Custom Fields
+
 Add custom fields to requirements for additional tracking:
+
 - Text fields
 - Select dropdowns
 - Date fields
 - Number fields
 
 ### Categories
+
 Organize requirements into logical groups:
+
 - Create category hierarchy
 - Drag and drop to reorder
 - Assign colors for visual distinction

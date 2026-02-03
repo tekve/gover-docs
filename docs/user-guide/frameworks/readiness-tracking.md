@@ -37,7 +37,7 @@ Requirements marked as "Not Applicable" are excluded from the calculation.
 
 ## Dashboard Metrics
 
-The Home dashboard shows:
+The Home view shows:
 
 | Metric | Description |
 |--------|-------------|
@@ -58,13 +58,17 @@ Identify compliance gaps quickly:
 ## Progress Tracking
 
 ### Timeline View
+
 See how readiness has changed over time:
+
 - Weekly/monthly progress charts
 - Milestone markers
 - Trend analysis
 
 ### Activity Feed
+
 Track recent compliance activities:
+
 - New control mappings
 - Status changes
 - Team contributions
@@ -81,6 +85,7 @@ Generate compliance reports:
    - **Full Report** — Complete compliance status
 
 ### Report Formats
+
 - PDF — For sharing and printing
 - Excel — For further analysis
 - CSV — For data integration

@@ -15,11 +15,13 @@ Configure settings for individual workspaces.
 ## General Settings
 
 ### Workspace Information
+
 - **Name** — Workspace display name
 - **Description** — Purpose of the workspace
 - **Logo** — Workspace-specific logo (optional)
 
 ### Workspace Preferences
+
 - Default language
 - Date format
 - Time zone
@@ -27,7 +29,9 @@ Configure settings for individual workspaces.
 ## User Access
 
 ### Viewing Workspace Users
+
 See users with access to this workspace:
+
 - Name and email
 - Workspace role
 - Access level
@@ -60,24 +64,29 @@ See users with access to this workspace:
 Configure settings for each module:
 
 ### Frameworks
+
 - Default view (cards/list)
 - Custom fields
 
 ### Controls
+
 - Categories
 - Custom fields
 - Default status
 
 ### Risks
+
 - Assessment fields
 - Scoring formulas
 - Risk level mappings
 
 ### Documents
+
 - Categories
 - Custom fields
 
 ### Tasks
+
 - Statuses
 - Categories
 - Custom fields

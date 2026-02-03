@@ -16,18 +16,22 @@ Or navigate directly to the settings from the sidebar.
 ## Organization Information
 
 ### Basic Info
+
 - **Organization Name** — Your company name
 - **Logo** — Organization logo (displayed in UI)
 - **Description** — Brief description
 
 ### Contact Information
+
 - Primary contact email
 - Support contact
 
 ## User Management
 
 ### Viewing Users
+
 See all users in your organization:
+
 - Name and email
 - Role
 - Status (active/invited)
@@ -69,6 +73,7 @@ See all users in your organization:
 ## Workspaces
 
 ### Viewing Workspaces
+
 See all workspaces in your organization.
 
 ### Creating Workspaces
@@ -81,7 +86,9 @@ See all workspaces in your organization.
 4. Save
 
 ### Workspace Settings
+
 Click on a workspace to configure:
+
 - Name and description
 - User access
 - Default settings
@@ -89,16 +96,19 @@ Click on a workspace to configure:
 ## Security Settings
 
 ### Authentication
+
 - SSO configuration
 - MFA requirements
 
 ### Session Settings
+
 - Session timeout
 - Concurrent sessions
 
 ## Billing & Subscription
 
 View and manage your subscription:
+
 - Current plan
 - Usage statistics
 - Billing history

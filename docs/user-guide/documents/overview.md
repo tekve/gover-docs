@@ -9,11 +9,12 @@ Documents in Gover serve as evidence for your controls and compliance activities
 ## What are Documents?
 
 Documents are files and content that support your compliance program:
+
 - Policies and procedures
 - Evidence records
 - Audit reports
 - Training materials
-- Contracts and agreements
+- Contracts
 
 ## Document Types
 
@@ -28,6 +29,7 @@ Documents are files and content that support your compliance program:
 Navigate to **Documents** to see your document library.
 
 ### Views
+
 - **List View** — Sortable, filterable table
 - **Category View** — Organized by category
 
@@ -54,7 +56,7 @@ flowchart LR
 ```
 
 - **Controls** — Evidence supporting controls
-- **Tasks** — Deliverables from tasks
+- **Tasks** — Task deliverables
 - **Requirements** — Direct requirement evidence
 
 ## Key Actions

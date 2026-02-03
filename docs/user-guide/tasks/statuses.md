@@ -12,9 +12,9 @@ Gover provides default statuses:
 
 | Status | Type | Description |
 |--------|------|-------------|
-| **To Do** | Open | Not started |
+| **Task** | Open | Not started |
 | **In Progress** | In Progress | Work underway |
-| **Review** | In Progress | Awaiting review |
+| **In Review** | In Progress | Awaiting review |
 | **Done** | Closed | Completed |
 
 ## Managing Statuses
@@ -60,25 +60,29 @@ Drag and drop statuses to change their order in the workflow.
 ## Status Colors
 
 Assign colors for visual distinction:
-- 🔵 Blue — Open/To Do
+
+- 🔵 Blue — Open/Task
 - 🟡 Yellow — In Progress
-- 🟣 Purple — Review
+- 🟣 Purple — In Review
 - 🟢 Green — Done
 - 🔴 Red — Blocked
 
 ## Workflow Examples
 
 ### Simple Workflow
+
 ```
-To Do → In Progress → Done
+Task → In Progress → Done
 ```
 
 ### Review Workflow
+
 ```
-To Do → In Progress → Review → Done
+Task → In Progress → In Review → Done
 ```
 
 ### Approval Workflow
+
 ```
 Draft → Submitted → Approved → Done
        ↓

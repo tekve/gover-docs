@@ -10,10 +10,11 @@ Risk treatment is the process of addressing identified risks to reduce them to a
 
 ```mermaid
 flowchart TD
-    R[Risk] --> A{Treatment?}
+    RA[Risk Assessment] --> A{Treatment?}
     A -->|Mitigate| M[Implement Controls]
+    A -->|Mitigate| CT[Create Tasks]
     A -->|Accept| AC[Monitor & Review]
-    A -->|Transfer| T[Insurance/Outsource]
+    A -->|Transfer| TR[Insurance/Outsource]
     A -->|Avoid| AV[Eliminate Source]
 ```
 

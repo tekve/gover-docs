@@ -29,7 +29,7 @@ flowchart TB
 
 A **Framework** is a structured set of requirements that define compliance standards. Examples include:
 
-- **ISO 27001** — Information security management
+- **ISO 27001** — Information security management system
 - **GDPR** — Data protection regulation
 - **NIS2** — Network and information security directive
 - **SOC 2** — Service organization controls

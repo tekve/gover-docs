@@ -9,6 +9,7 @@ Manage tasks visually with the Kanban board.
 ## What is Kanban?
 
 Kanban is a visual workflow management method:
+
 - Tasks displayed as cards
 - Columns represent statuses
 - Drag and drop to update
@@ -21,7 +22,7 @@ Navigate to **Tasks** → **Kanban**
 
 ```
 ┌─────────┬─────────┬─────────┬─────────┐
-│  To Do  │In Prog. │ Review  │  Done   │
+│  Task   │In Prog. │ Review  │  Done   │
 ├─────────┼─────────┼─────────┼─────────┤
 │ [Task]  │ [Task]  │ [Task]  │ [Task]  │
 │ [Task]  │ [Task]  │         │ [Task]  │
@@ -32,6 +33,7 @@ Navigate to **Tasks** → **Kanban**
 ### Task Cards
 
 Each card shows:
+
 - Task title
 - Assignee avatar
 - Due date
@@ -41,11 +43,13 @@ Each card shows:
 ## Moving Tasks
 
 ### Drag and Drop
+
 1. Click and hold a task card
 2. Drag to the target column
 3. Release to update status
 
 ### Quick Actions
+
 1. Click the task card
 2. Use the status dropdown
 3. Select new status
@@ -53,12 +57,14 @@ Each card shows:
 ## Creating Tasks
 
 ### Quick Create
+
 1. Click **+ Add Task** in any column
 2. Enter task title
 3. Press Enter
 4. Task is created in that status
 
 ### Full Create
+
 1. Click **Add Task** button
 2. Fill in all details
 3. Save
@@ -66,6 +72,7 @@ Each card shows:
 ## Filtering the Board
 
 Filter tasks displayed:
+
 - **Assignee** — Show specific person's tasks
 - **Priority** — Filter by priority level
 - **Category** — Show specific categories
@@ -74,10 +81,13 @@ Filter tasks displayed:
 ## Board Customization
 
 ### Column Order
+
 Drag columns to reorder them.
 
 ### WIP Limits
+
 Set work-in-progress limits per column:
+
 1. Go to **Tasks** → **Settings** → **Statuses**
 2. Set limit for each status
 3. Board shows warning when exceeded

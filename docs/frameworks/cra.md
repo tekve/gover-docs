@@ -18,12 +18,14 @@ The Cyber Resilience Act (CRA) establishes cybersecurity requirements for produc
 ## Scope
 
 The CRA applies to:
+
 - Hardware products with digital elements
 - Software products
 - Remote data processing solutions
 - Components and accessories
 
 ### Exclusions
+
 - Medical devices (covered by MDR)
 - Motor vehicles (covered by vehicle regulations)
 - Aviation products
@@ -32,22 +34,26 @@ The CRA applies to:
 ## Key Requirements
 
 ### Security by Design
+
 - Secure development lifecycle
 - Vulnerability management
 - Security testing
 
 ### Product Requirements
+
 - No known exploitable vulnerabilities
 - Secure default configuration
 - Protection of confidentiality and integrity
 - Minimal attack surface
 
 ### Vulnerability Handling
+
 - Coordinated vulnerability disclosure
 - Security updates for product lifetime
 - Minimum 5-year support period
 
 ### Documentation
+
 - Technical documentation
 - EU declaration of conformity
 - User instructions
@@ -63,13 +69,15 @@ The CRA applies to:
 ### 2. Assess Product Portfolio
 
 Identify products in scope:
-- Hardware with digital elements
+
+- Devices with digital elements
 - Software products
-- Connected devices
+- Connected devices (IoT)
 
 ### 3. Map Development Controls
 
 Link controls for:
+
 - Secure development lifecycle
 - Security testing
 - Vulnerability management
@@ -78,6 +86,7 @@ Link controls for:
 ### 4. Document Compliance
 
 Prepare required documentation:
+
 - Technical documentation
 - Risk assessments
 - Conformity declarations
@@ -93,14 +102,17 @@ Prepare required documentation:
 ## Product Categories
 
 ### Default Category
+
 - Self-assessment
 - Most products
 
 ### Important Products (Class I)
+
 - Third-party assessment option
 - Identity management, VPNs, etc.
 
 ### Critical Products (Class II)
+
 - Mandatory third-party assessment
 - Operating systems, firewalls, etc.
 
@@ -112,4 +124,4 @@ Prepare required documentation:
 ## Next Steps
 
 - [NIS2](./nis2) — Related cybersecurity directive
-- [ISO 27001](./iso-27001) — Security management standard
+- [ISO 27001](./iso-27001) — Information security management standard

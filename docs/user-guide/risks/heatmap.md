@@ -9,6 +9,7 @@ The risk heatmap provides a visual representation of your risk landscape.
 ## What is a Risk Heatmap?
 
 A heatmap displays risks on a grid based on:
+
 - **X-axis**: Likelihood (probability)
 - **Y-axis**: Impact (severity)
 
@@ -16,14 +17,14 @@ Risks cluster in cells showing their relative priority.
 
 ```
         Impact
-    Low  Med  High
-   ┌────┬────┬────┐
+     Low  Med  High
+    ┌────┬────┬────┐
 Hi │ 🟡 │ 🟠 │ 🔴 │
-   ├────┼────┼────┤  Likelihood
+    ├────┼────┼────┤  Likelihood
 Me │ 🟢 │ 🟡 │ 🟠 │
-   ├────┼────┼────┤
+    ├────┼────┼────┤
 Lo │ 🟢 │ 🟢 │ 🟡 │
-   └────┴────┴────┘
+    └────┴────┴────┘
 ```
 
 ## Viewing the Heatmap
@@ -35,6 +36,7 @@ Lo │ 🟢 │ 🟢 │ 🟡 │
 ## Reading the Heatmap
 
 ### Colors
+
 | Color | Meaning |
 |-------|---------|
 | 🔴 Red | Critical - Immediate attention |
@@ -43,31 +45,40 @@ Lo │ 🟢 │ 🟢 │ 🟡 │
 | 🟢 Green | Low - Acceptable risk |
 
 ### Risk Count
+
 Each cell shows the number of risks in that category.
 
 ### Drill Down
+
 Click on a cell to see the specific risks in that category.
 
 ## Heatmap Types
 
 ### Inherent Risk Heatmap
+
 Shows risks before controls are applied.
+
 - Baseline risk picture
 - Identifies highest raw risks
 
 ### Residual Risk Heatmap
+
 Shows risks after controls are applied.
+
 - Current risk exposure
 - Measures control effectiveness
 
 ### Comparison View
-Side-by-side inherent vs residual:
+
+Inherent vs residual side by side:
+
 - See risk reduction
 - Identify treatment gaps
 
 ## Filtering the Heatmap
 
 Filter risks displayed on the heatmap:
+
 - **Category** — Show specific risk categories
 - **Owner** — Show risks by owner
 - **Status** — Show by treatment status
@@ -76,15 +87,19 @@ Filter risks displayed on the heatmap:
 ## Using the Heatmap
 
 ### Prioritization
+
 Focus on risks in the red zone first.
 
 ### Reporting
+
 Export heatmap for management reports.
 
 ### Trend Analysis
+
 Compare heatmaps over time to see improvement.
 
 ### Gap Analysis
+
 Identify areas with concentrated risks.
 
 ## Best Practices

@@ -110,14 +110,6 @@ flowchart LR
     D -->|No| B
 ```
 
-## Bulk Assessments
-
-Assess multiple risks at once:
-1. Select risks in the list view
-2. Click **Bulk Actions** → **Assess**
-3. Complete assessment form
-4. Apply to all selected
-
 ## Best Practices
 
 1. **Be consistent** — Use the same criteria across assessments

@@ -2,13 +2,14 @@
 sidebar_position: 1
 ---
 
-# Controls Overview
+# Controls
 
 Controls are the policies, procedures, and measures your organization implements to meet compliance requirements and mitigate risks.
 
 ## What is a Control?
 
 A control is a safeguard or countermeasure designed to:
+
 - Meet compliance requirements
 - Mitigate identified risks
 - Protect organizational assets
@@ -53,21 +54,25 @@ Each control has:
 Controls connect to other entities:
 
 ### Requirements
+
 - Controls satisfy framework requirements
 - One control can map to multiple requirements
 - Cross-framework mapping supported
 
 ### Risks
+
 - Controls mitigate identified risks
 - Shows risk reduction impact
 - Links to risk assessments
 
 ### Documents
-- Evidence documents support controls
+
+- Documents support controls
 - Policies, procedures, records
 - Version tracking
 
 ### Tasks
+
 - Implementation tasks
 - Review and audit tasks
 - Remediation actions

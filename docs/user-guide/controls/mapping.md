@@ -19,7 +19,7 @@ flowchart LR
     subgraph Controls
         C[Control]
     end
-    subgraph Evidence
+    subgraph Documents
         D[Document]
     end
     R1 --> C
@@ -68,6 +68,7 @@ Link controls to the risks they mitigate:
 5. Confirm mapping
 
 This shows:
+
 - Which risks are mitigated by controls
 - Control coverage for risk treatment
 - Gaps in risk mitigation
@@ -103,14 +104,18 @@ Link implementation and review tasks:
 ## Viewing Mappings
 
 ### Control View
+
 See all mappings for a single control:
+
 - Requirements tab
 - Risks tab
 - Documents tab
 - Tasks tab
 
 ### Matrix View
+
 See mappings across multiple controls:
+
 - Framework × Control matrix
 - Risk × Control matrix
 

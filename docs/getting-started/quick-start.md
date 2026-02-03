@@ -32,8 +32,6 @@ Workspaces are great for separating different business units, projects, or clien
    - **Content Hub** — Community and marketplace frameworks
    - **Custom** — Create your own framework
 
-<!-- TODO: Add GIF showing framework addition -->
-
 ## Step 4: Review Requirements
 
 Once a framework is added:
