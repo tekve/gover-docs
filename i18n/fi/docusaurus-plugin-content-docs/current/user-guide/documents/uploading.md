@@ -84,4 +84,4 @@ Aiemmat versiot säilytetään historiassa.
 ## Seuraavat vaiheet
 
 - [Dokumenttieditori](./editor) — Luo dokumentteja Goverissa
-- [Dokumenttien yhdistäminen](./mapping) — Linkitä hallintakeinoihin
+- [Dokumenttien yhdistäminen](./mapping) — Liitä hallintakeinoihin

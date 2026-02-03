@@ -4,18 +4,18 @@ sidebar_position: 4
 
 # Dokumenttien yhdistäminen
 
-Linkitä dokumentteja hallintakeinoihin, tehtäviin ja muihin kohteisiin todisteina.
+Liitä dokumentteja hallintakeinoihin, tehtäviin ja muihin kohteisiin todisteina.
 
 ## Miksi yhdistää dokumentteja?
 
-Yhdistäminen luo jäljitettävyyttä:
+Liittäminen luo jäljitettävyyttä:
 
 - Näyttää todisteet hallintakeinoille
 - Linkittää toimitettavat asiat tehtäviin
 - Tukee auditointivaatimuksia
 - Osoittaa vaatimustenmukaisuuden
 
-## Yhdistäminen hallintakeinoihin
+## Liittäminen hallintakeinoihin
 
 Dokumentit toimivat todisteina hallintakeinoille.
 
@@ -23,7 +23,7 @@ Dokumentit toimivat todisteina hallintakeinoille.
 
 1. Avaa dokumentti
 2. Mene **Hallintakeinot** -välilehdelle
-3. Klikkaa **Yhdistä hallintakeinot**
+3. Klikkaa **Liitä hallintakeinot**
 4. Valitse hallintakeinot
 5. Vahvista yhdistäminen
 
@@ -31,17 +31,17 @@ Dokumentit toimivat todisteina hallintakeinoille.
 
 1. Avaa hallintakeino
 2. Mene **Dokumentit** -välilehdelle
-3. Klikkaa **Yhdistä dokumentit**
+3. Klikkaa **Liitä dokumentit**
 4. Valitse dokumentit
 5. Vahvista yhdistäminen
 
-## Yhdistäminen tehtäviin
+## Liittäminen tehtäviin
 
-Linkitä dokumentteja tehtävän tuotoksina.
+Liitä dokumentteja tehtävän tuotoksina.
 
 1. Avaa dokumentti
 2. Mene **Tehtävät** -välilehdelle
-3. Klikkaa **Yhdistä tehtävät**
+3. Klikkaa **Liitä tehtävät**
 4. Valitse tehtävät
 5. Vahvista yhdistäminen
 
@@ -79,10 +79,10 @@ Näe dokumentti-hallintakeino -yhteydet matriisimuodossa.
 
 ## Massayhdistäminen
 
-Yhdistä useita dokumentteja kerralla:
+Liitä useita dokumentteja kerralla:
 
 1. Valitse dokumentit luettelonäkymässä
-2. Klikkaa **Massatoiminnot** → **Yhdistä**
+2. Klikkaa **Massatoiminnot** → **Liitä**
 3. Valitse kohdehallintakeinot
 4. Sovella kaikkiin valittuihin
 
@@ -95,10 +95,10 @@ Yhdistä useita dokumentteja kerralla:
 
 ## Parhaat käytännöt
 
-1. **Yhdistä kattavasti** — Linkitä kaikki relevantit todisteet
+1. **Liitä kattavasti** — Liitä kaikki relevantit todisteet
 2. **Käytä AI-ehdotuksia** — Säästä aikaa vastaavuuksien etsimisessä
 3. **Tarkista säännöllisesti** — Päivitä yhteyksiä dokumenttien muuttuessa
-4. **Vältä liikayhdistämistä** — Yhdistä vain, kun on todellinen relevanssi
+4. **Vältä liiallista liittämistä** — Liitä vain, kun on todellinen relevanssi
 5. **Dokumentoi perustelut** — Lisää muistiinpanoja selittämään miksi dokumentit tukevat hallintakeinoja
 
 ## Seuraavat vaiheet

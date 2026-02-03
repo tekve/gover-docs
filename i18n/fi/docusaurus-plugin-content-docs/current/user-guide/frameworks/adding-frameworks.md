@@ -19,7 +19,7 @@ Nopein tapa aloittaa standardiviitekehysten kanssa.
 
 <!-- TODO: Add GIF showing template selection -->
 
-:::tip
+:::tip Vinkki
 Mallipohjat sisältävät täydellisen vaatimusrakenteen, valmiina hallintakeinoen yhdistämistä varten.
 :::
 

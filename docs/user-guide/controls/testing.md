@@ -105,4 +105,4 @@ flowchart LR
 ## Next Steps
 
 - [Categories](./categories) — Organize your controls
-- [Risk Assessments](../risks/risk-assessments) — Link testing to risk management
+- [Risk Assessments](../risks/risk-assessments) — Map testing to risk management

@@ -21,7 +21,7 @@ flowchart TB
         RI[Risks] --> RA[Risk Assessments]
     end
     R -.->|mapped to| C
-    RA -.->|mitigated by| C
+    RA -.->|mitigation via controls| C
     RA -.->|creates| T
 ```
 
@@ -50,7 +50,7 @@ Frameworks contain **Requirements** organized in a hierarchical structure (chapt
 **Controls** are the measures, policies, or procedures you implement to meet requirements. A control can:
 
 - Map to multiple requirements across different frameworks
-- Link to evidence documents
+- Map to evidence documents
 - Have associated tasks
 - Be categorized and tagged
 
@@ -66,6 +66,8 @@ One control can satisfy requirements from multiple frameworks. For example, an "
 - **Residual Risk** — Risk level after controls are applied
 - **Treatment Plan** — How you address the risk (mitigate, accept, transfer, avoid)
 
+Risk assessments inform mitigation, and mitigation is implemented through controls.
+
 ## Risk Assessments
 
 **Risk Assessments** evaluate specific risks using customizable scoring fields:
@@ -79,9 +81,12 @@ One control can satisfy requirements from multiple frameworks. For example, an "
 
 **Documents** serve as evidence for your controls. They can be:
 
+- Policies and procedures
+- Evidence records
+- Audit reports
+- Contracts and agreements
 - Uploaded files (PDF, Word, etc.)
 - Created directly in Gover's editor
-- Linked to controls as evidence
 
 ## Tasks
 

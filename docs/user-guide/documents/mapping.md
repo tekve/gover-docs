@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Mapping Documents
 
-Link documents to controls, tasks, and other entities as evidence.
+Map documents to controls, tasks, and other entities as evidence.
 
 ## Why Map Documents?
 
@@ -37,7 +37,7 @@ Documents serve as evidence for controls.
 
 ## Mapping to Tasks
 
-Link documents as task deliverables.
+Map documents as task deliverables.
 
 1. Open the document
 2. Go to **Tasks** tab
@@ -95,7 +95,7 @@ Map multiple documents at once:
 
 ## Best Practices
 
-1. **Map comprehensively** — Link all relevant evidence
+1. **Map comprehensively** — Map all relevant evidence
 2. **Use AI suggestions** — Save time finding matches
 3. **Review periodically** — Update mappings as documents change
 4. **Avoid over-mapping** — Only map where there's genuine relevance

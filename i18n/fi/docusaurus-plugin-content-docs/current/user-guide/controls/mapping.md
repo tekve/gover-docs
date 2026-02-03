@@ -2,13 +2,13 @@
 sidebar_position: 3
 ---
 
-# Hallintakeinoen yhdistäminen
+# Hallintakeinojen liittäminen
 
-Yhdistä hallintakeinot vaatimuksiin, riskeihin ja asiakirjoihin vaatimustenmukaisuuskuvasi rakentamiseksi.
+Liitä hallintakeinot vaatimuksiin, riskeihin ja asiakirjoihin vaatimustenmukaisuuskuvasi rakentamiseksi.
 
-## Miksi yhdistäminen on tärkeää?
+## Miksi liittäminen on tärkeää?
 
-Yhdistäminen luo yhteydet, jotka mahdollistavat Goverin vaatimustenmukaisuuden seurannan:
+Liittäminen luo yhteydet, jotka mahdollistavat Goverin vaatimustenmukaisuuden seurannan:
 
 ```mermaid
 flowchart LR
@@ -27,24 +27,24 @@ flowchart LR
     C --> D
 ```
 
-## Yhdistäminen vaatimuksiin
+## Liittäminen vaatimuksiin
 
 ### Hallintakeinosta
 
 1. Avaa hallintakeino
 2. Mene **Vaatimukset** -välilehdelle
-3. Klikkaa **Yhdistä vaatimukset**
+3. Klikkaa **Liitä vaatimukset**
 4. Valitse vaatimukset mistä tahansa viitekehyksestä
-5. Vahvista yhdistäminen
+5. Vahvista liittäminen
 
 ### Vaatimuksesta
 
 1. Avaa vaatimus
-2. Klikkaa **Yhdistä hallintakeinot**
+2. Klikkaa **Liitä hallintakeinot**
 3. Valitse olemassa olevat hallintakeinot tai luo uusi
-4. Vahvista yhdistäminen
+4. Vahvista liittäminen
 
-### AI-avusteinen yhdistäminen
+### AI-avusteinen liittäminen
 
 Anna tekoälyn ehdottaa relevantteja yhteyksiä:
 
@@ -57,15 +57,15 @@ Anna tekoälyn ehdottaa relevantteja yhteyksiä:
 AI analysoi tekstin samankaltaisuutta, olemassa olevia yhteyksiä ja alan malleja tehdäkseen ehdotuksia.
 :::
 
-## Yhdistäminen riskeihin
+## Liittäminen riskeihin
 
-Linkitä hallintakeinot riskeihin, joita ne lieventävät:
+Liitä hallintakeinot riskeihin, joita ne lieventävät:
 
 1. Avaa hallintakeino
 2. Mene **Riskit** -välilehdelle
-3. Klikkaa **Yhdistä riskit**
+3. Klikkaa **Liitä riskit**
 4. Valitse riskit rekisteristäsi
-5. Vahvista yhdistäminen
+5. Vahvista liittäminen
 
 Tämä näyttää:
 
@@ -73,15 +73,15 @@ Tämä näyttää:
 - Hallintakeinokattavuuden riskien käsittelyssä
 - Puutteet riskien lieventämisessä
 
-## Yhdistäminen dokumentteihin
+## Liittäminen dokumentteihin
 
 Liitä todistedokumentteja hallintakeinoihin:
 
 1. Avaa hallintakeino
 2. Mene **Dokumentit** -välilehdelle
-3. Klikkaa **Yhdistä dokumentit**
+3. Klikkaa **Liitä dokumentit**
 4. Valitse olemassa olevat dokumentit tai lataa uusi
-5. Vahvista yhdistäminen
+5. Vahvista liittäminen
 
 ### Dokumenttityypit
 
@@ -92,13 +92,13 @@ Liitä todistedokumentteja hallintakeinoihin:
 | **Tietueet**   | Todisteet toteutuksesta          |
 | **Raportit**   | Auditointi- ja arviointiraportit |
 
-## Yhdistäminen tehtäviin
+## Liittäminen tehtäviin
 
-Linkitä implementointi- ja katselmointitehtävät:
+Liitä implementointi- ja katselmointitehtävät:
 
 1. Avaa hallintakeino
 2. Mene **Tehtävät** -välilehdelle
-3. Klikkaa **Yhdistä tehtävät** tai **Luo tehtävä**
+3. Klikkaa **Liitä tehtävät** tai **Luo tehtävä**
 4. Liitä relevantit tehtävät
 
 ## Yhteyksien tarkastelu
@@ -119,22 +119,22 @@ Näe yhteydet useiden hallintakeinoen välillä:
 - Viitekehys × Hallintakeino -matriisi
 - Riski × Hallintakeino -matriisi
 
-## Massayhdistäminen
+## Massaliittäminen
 
-Yhdistä useita kohteita kerralla:
+Liitä useita kohteita kerralla:
 
 1. Valitse useita hallintakeinoja (valintaruutu)
-2. Klikkaa **Massatoiminnot** → **Yhdistä**
+2. Klikkaa **Massatoiminnot** → **Liitä**
 3. Valitse kohdevaatimukset tai -riskit
 4. Sovella kaikkiin valittuihin
 
 ## Parhaat käytännöt
 
-1. **Yhdistä kattavasti** — Älä jätä vaatimuksia ilman yhteyksiä
+1. **Liitä kattavasti** — Älä jätä vaatimuksia ilman yhteyksiä
 2. **Käytä AI-ehdotuksia** — Säästä aikaa älykkäillä suosituksilla
 3. **Tarkista säännöllisesti** — Yhteydet saattavat vaatia päivityksiä hallintakeinoen muuttuessa
-4. **Dokumentoi perustelut** — Lisää kommentteja selittämään yhdistämispäätökset
-5. **Vältä liikayhdistämistä** — Yhdistä vain, kun on todellinen suhde
+4. **Dokumentoi perustelut** — Lisää kommentteja selittämään liittämispäätökset
+5. **Vältä liiallista liittämistä** — Liitä vain, kun on todellinen suhde
 
 ## Seuraavat vaiheet
 

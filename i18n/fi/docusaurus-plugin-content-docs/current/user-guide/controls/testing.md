@@ -105,4 +105,4 @@ flowchart LR
 ## Seuraavat vaiheet
 
 - [Kategoriat](./categories) — Järjestä hallintakeinosi
-- [Riskinarvioinnit](../risks/risk-assessments) — Linkitä testaus riskienhallintaan
+- [Riskinarvioinnit](../risks/risk-assessments) — Liitä testaus riskienhallintaan

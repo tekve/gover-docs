@@ -123,5 +123,5 @@ Export documents in various formats:
 
 ## Next Steps
 
-- [Mapping Documents](./mapping) — Link to controls
+- [Mapping Documents](./mapping) — Map documents to controls
 - [Documents Overview](./overview) — Return to overview

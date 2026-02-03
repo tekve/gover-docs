@@ -80,7 +80,7 @@ Järjestä hallintakeinot kategorioihin:
 - Tekniset hallintakeinot
 - Hallinnolliset hallintakeinot
 
-:::tip
+:::tip Vinkki
 Luo kategoria-rakenne, joka vastaa organisaatiosi tarpeita.
 :::
 
@@ -107,7 +107,7 @@ Käytä tunnisteita joustavaan ryhmittelyyn:
 2. **Ole täsmällinen** — Kuvaa tarkalleen mitä hallintakeino tekee
 3. **Määritä omistajat** — Jokaisella hallintakeinolla tulee olla vastuuhenkilö
 4. **Kategorisoi johdonmukaisesti** — Käytä standardia kategoriarakennetta
-5. **Linkitä todisteet** — Liitä tukidokumentit
+5. **Liitä todisteet** — Liitä tukidokumentit
 
 ## Hallintakeinon elinkaari
 
@@ -122,6 +122,6 @@ flowchart LR
 
 ## Seuraavat vaiheet
 
-- [Hallintakeinoen yhdistäminen](./mapping) — Linkitä hallintakeinot vaatimuksiin
+- [Hallintakeinojen liittäminen](./mapping) — Liitä hallintakeinot vaatimuksiin
 - [Hallintakeinoen testaus](./testing) — Varmista tehokkuus
 - [Kategoriat](./categories) — Järjestä hallintakeinosi

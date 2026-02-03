@@ -65,7 +65,7 @@ flowchart LR
 | -------------- | ---------------------------------- |
 | **Lataa**      | Lisää tiedostoja kirjastoon        |
 | **Luo**        | Kirjoita dokumentteja Goverissa    |
-| **Yhdistä**    | Linkitä hallintakeinoihin ja tehtäviin |
+| **Liitä**      | Liitä hallintakeinoihin ja tehtäviin |
 | **Esikatsele** | Tarkastele dokumentin sisältöä     |
 | **Vie**        | Lataa dokumentteja                 |
 
@@ -73,4 +73,4 @@ flowchart LR
 
 - [Dokumenttien lataaminen](./uploading) — Lisää tiedostoja Goveriin
 - [Dokumenttieditori](./editor) — Luo dokumentteja Goverissa
-- [Dokumenttien yhdistäminen](./mapping) — Linkitä dokumentteja hallintakeinoihin
+- [Dokumenttien yhdistäminen](./mapping) — Liitä dokumentteja hallintakeinoihin

@@ -95,12 +95,12 @@ Track implementation progress:
 |--------|-------------|
 | **Create** | Add new controls |
 | **Import** | Bulk import from templates or files |
-| **Map** | Link to requirements and risks |
+| **Map** | Map controls to requirements and risks |
 | **Test** | Verify control effectiveness |
 | **Export** | Generate control reports |
 
 ## Next Steps
 
 - [Creating Controls](./creating-controls) — Add controls to your library
-- [Mapping Controls](./mapping) — Link controls to requirements and risks
+- [Mapping Controls](./mapping) — Map controls to requirements and risks
 - [Control Testing](./testing) — Verify control effectiveness

@@ -57,7 +57,7 @@ Näe kaikki vaatimukset suodatettavassa ja lajiteltavassa luettelossa.
 
 Jokainen viitekehys näyttää vaatimustenmukaisuuden valmiuden:
 
-- **Valmius %** — Prosenttiosuus vaatimuksista, joihin on yhdistetty hallintakeinot
+- **Valmius %** — Prosenttiosuus vaatimuksista, joihin on liitetty hallintakeinot
 - **Tilaindikaattorit** — Visuaalinen edistyminen kullekin osiolle
 - **Gap-analyysi** — Tunnista kartoittamattomat vaatimukset
 
@@ -67,7 +67,7 @@ Jokainen viitekehys näyttää vaatimustenmukaisuuden valmiuden:
 | -------------------------- | ------------------------------------------ |
 | **Lisää viitekehys**       | Tuo mallipohjista tai luo mukautettu       |
 | **Tarkastele vaatimuksia** | Selaa vaatimushierarkiaa                   |
-| **Yhdistä hallintakeinot**     | Linkitä hallintakeinot vaatimuksiin            |
+| **Liitä hallintakeinot**     | Liitä hallintakeinot vaatimuksiin            |
 | **Seuraa edistymistä**     | Monitoroi vaatimustenmukaisuuden valmiutta |
 | **Vie**                    | Luo vaatimustenmukaisuusraportteja         |
 

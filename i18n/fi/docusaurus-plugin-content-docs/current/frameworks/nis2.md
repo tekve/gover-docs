@@ -77,9 +77,9 @@ Määritä oletko keskeinen vai tärkeä toimija perusteinasi:
 - Koko
 - Kriittisyys
 
-### 3. Yhdistä hallintakeinot vaatimuksiin
+### 3. Liitä hallintakeinot vaatimuksiin
 
-Yhdistä turvallisuushallintakeinosi NIS2 Artikla 21:n vaatimuksiin:
+Liitä turvallisuushallintakeinosi NIS2 Artikla 21:n vaatimuksiin:
 
 - Riskienhallintapolitiikat
 - Häiriönhallintaprosessit

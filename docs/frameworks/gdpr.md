@@ -60,7 +60,7 @@ Map existing controls to GDPR requirements:
 
 ### 3. Document Evidence
 
-Link evidence documents:
+Map evidence documents:
 
 - Privacy policies
 - Data processing agreements (DPA)

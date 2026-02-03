@@ -26,19 +26,19 @@ Workspaces are great for separating different business units, projects, or clien
 ## Step 3: Add Your First Framework
 
 1. Navigate to **Frameworks** in the sidebar
-2. Click **Add Framework**
-3. Choose from:
-   - **Templates** — Pre-built frameworks (ISO 27001, GDPR, NIS2, etc.)
-   - **Content Hub** — Community and marketplace frameworks
-   - **Custom** — Create your own framework
+2. In the **Frameworks** view, open the **Templates** tab
+3. Choose a template (ISO 27001, GDPR, NIS2, etc.) and click **Add to Workspace**
+4. To discover more templates, go to **Organization Settings** → **Content Hub** and install templates to your workspace
 
 ## Step 4: Review Requirements
 
 Once a framework is added:
 
-1. Click on the framework to open it
-2. Browse the requirement tree structure
-3. Each requirement shows its compliance status
+1. Click the framework to open it
+2. You'll see **Overview** and **Requirements** tabs
+3. Open **Requirements** and browse requirements grouped under categories
+4. You can hide the **Tree View** and use the **List View** as needed
+5. Each requirement shows its compliance status
 
 ## Step 5: Map Controls
 
@@ -55,7 +55,7 @@ flowchart TD
     B --> C[Map Controls]
     C --> D[Add Evidence]
     D --> E[Track Readiness]
-    E --> F[Achieve Compliance]
+    E --> F[Maintain Compliance]
 ```
 
 ## Step 6: Track Progress

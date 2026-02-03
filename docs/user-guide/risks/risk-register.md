@@ -129,7 +129,7 @@ Click on a risk to see:
 1. **Be specific** — Clearly describe what could go wrong
 2. **Assign owners** — Every risk needs accountability
 3. **Assess regularly** — Risk levels change over time
-4. **Link to controls** — Show how risks are mitigated
+4. **Map risks to controls** — Show how risks are mitigated
 5. **Review periodically** — Archive risks that are no longer relevant
 
 ## Next Steps

@@ -107,7 +107,7 @@ Use tags for flexible grouping:
 2. **Be specific** — Describe exactly what the control does
 3. **Assign owners** — Every control needs accountability
 4. **Categorize consistently** — Use a standard category structure
-5. **Link evidence** — Attach supporting documents
+5. **Map evidence** — Attach supporting documents
 
 ## Control Lifecycle
 
@@ -122,6 +122,6 @@ flowchart LR
 
 ## Next Steps
 
-- [Mapping Controls](./mapping) — Link controls to requirements
+- [Mapping Controls](./mapping) — Map controls to requirements
 - [Control Testing](./testing) — Verify effectiveness
 - [Categories](./categories) — Organize your controls

@@ -49,9 +49,9 @@ Yleinen tietosuoja-asetus (GDPR) on EU:n kattava tietosuojalaki.
 2. Valitse mallipohjista **GDPR**
 3. Lisää työtilaasi
 
-### 2. Yhdistä hallintakeinosi
+### 2. Liitä hallintakeinosi
 
-Yhdistä olemassa olevat hallintakeinot GDPR-vaatimuksiin:
+Liitä olemassa olevat hallintakeinot GDPR-vaatimuksiin:
 
 - Tietosuojakäytännöt
 - Pääsynhallintahallintakeinot
@@ -60,7 +60,7 @@ Yhdistä olemassa olevat hallintakeinot GDPR-vaatimuksiin:
 
 ### 3. Dokumentoi todisteet
 
-Linkitä todisteasiakirjat:
+Liitä todisteasiakirjat:
 
 - Tietosuojaselosteet
 - Henkilötietojen käsittelysopimukset (DPA)

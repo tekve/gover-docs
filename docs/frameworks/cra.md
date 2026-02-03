@@ -76,7 +76,7 @@ Identify products in scope:
 
 ### 3. Map Development Controls
 
-Link controls for:
+Map controls for:
 
 - Secure development lifecycle
 - Security testing

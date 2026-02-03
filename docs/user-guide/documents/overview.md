@@ -65,7 +65,7 @@ flowchart LR
 |--------|-------------|
 | **Upload** | Add files to the library |
 | **Create** | Write documents in Gover |
-| **Map** | Link to controls and tasks |
+| **Map** | Map documents to controls and tasks |
 | **Preview** | View document contents |
 | **Export** | Download documents |
 
@@ -73,4 +73,4 @@ flowchart LR
 
 - [Uploading Documents](./uploading) — Add files to Gover
 - [Document Editor](./editor) — Create documents in Gover
-- [Mapping Documents](./mapping) — Link documents to controls
+- [Mapping Documents](./mapping) — Map documents to controls

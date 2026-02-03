@@ -111,7 +111,7 @@ Klikkaa riskiä nähdäksesi:
 
 ### Hallintakeinot-välilehti
 
-- Yhdistetyt hallintakeinot
+- Liitetyt hallintakeinot
 - Hallintakeinoen tehokkuus
 
 ### Tehtävät-välilehti
@@ -129,7 +129,7 @@ Klikkaa riskiä nähdäksesi:
 1. **Ole täsmällinen** — Kuvaa selkeästi mitä voisi mennä pieleen
 2. **Määritä omistajat** — Jokainen riski tarvitsee vastuuhenkilön
 3. **Arvioi säännöllisesti** — Riskitasot muuttuvat ajan myötä
-4. **Linkitä hallintakeinoihin** — Näytä miten riskejä lievennetään
+4. **Liitä hallintakeinoihin** — Näytä miten riskejä lievennetään
 5. **Tarkista ajoittain** — Arkistoi riskit, jotka eivät ole enää relevantteja
 
 ## Seuraavat vaiheet

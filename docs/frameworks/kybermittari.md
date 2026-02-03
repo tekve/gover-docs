@@ -68,7 +68,7 @@ For each requirement:
 
 ### 3. Map Controls
 
-Link your existing controls to Kybermittari requirements:
+Map your existing controls to Kybermittari requirements:
 
 - Security policies
 - Technical controls

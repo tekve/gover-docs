@@ -16,7 +16,7 @@ Klikkaa **AI-avustaja** -kuvaketta sivupalkissa avataksesi chat-paneelin.
 
 Kysy vaatimustenmukaisuusdatastasi:
 
-- "Mitkä hallintakeinot on yhdistetty GDPR:n artiklaan 32?"
+- "Mitkä hallintakeinot on liitetty GDPR:n artiklaan 32?"
 - "Näytä minulle korkean riskin kohteet"
 - "Millä vaatimuksilla ei ole hallintakeinoja?"
 
@@ -73,9 +73,9 @@ Pääse aiempiin keskusteluihin:
 ### Puutteiden löytäminen
 
 ```
-Sinä: Mitkä ISO 27001 -vaatimukset eivät ole yhdistetty hallintakeinoihin?
+Sinä: Mitkä ISO 27001 -vaatimukset eivät ole liitetty hallintakeinoihin?
 
-AI: Löysin 12 vaatimusta ilman yhdistettyjä hallintakeinoja:
+AI: Löysin 12 vaatimusta ilman liitettyjä hallintakeinoja:
 - A.5.1.1 - Tietoturvapolitiikat
 - A.5.1.2 - Politiikkojen katselmointi
 ...

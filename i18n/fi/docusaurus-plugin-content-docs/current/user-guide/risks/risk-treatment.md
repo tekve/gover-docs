@@ -66,18 +66,18 @@ Jokaiselle käsittelylle dokumentoi:
 | --------------------- | -------------------------------------- |
 | **Käsittelytyyppi**   | Lievennä, Hyväksy, Siirrä, Vältä       |
 | **Kuvaus**            | Miten riskiä käsitellään               |
-| **Hallintakeinot**        | Yhdistetyt hallintakeinot (lieventämiseen) |
+| **Hallintakeinot**        | Liitetyt hallintakeinot (lieventämiseen) |
 | **Omistaja**          | Vastuuhenkilö                          |
 | **Tavoitepäivämäärä** | Milloin käsittelyn tulisi olla valmis  |
 | **Tila**              | Käsittelyn edistyminen                 |
 
-## Hallintakeinoen yhdistäminen
+## Hallintakeinojen liittäminen
 
 Lieventämiskäsittelyä varten:
 
 1. Avaa riski
 2. Mene **Hallintakeinot** -välilehdelle
-3. Klikkaa **Yhdistä hallintakeinot**
+3. Klikkaa **Liitä hallintakeinot**
 4. Valitse hallintakeinot, jotka käsittelevät tätä riskiä
 5. Vahvista yhdistäminen
 

@@ -17,7 +17,7 @@ pnpm start
 pnpm build
 
 # Start Finnish locale
-pnpm start -- --locale fi
+pnpm start --locale fi
 
 ```
 

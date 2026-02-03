@@ -85,7 +85,7 @@ Klikkaa tehtävää nähdäksesi täydet tiedot:
 
 ### Liittyvät-välilehti
 
-- Yhdistetyt hallintakeinot
+- Liitetyt hallintakeinot
 - Yhdistetyt dokumentit
 - Yhdistetyt riskinarvioinnit
 

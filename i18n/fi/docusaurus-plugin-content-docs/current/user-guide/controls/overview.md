@@ -95,12 +95,12 @@ Seuraa implementoinnin edistymistä:
 | ----------- | ------------------------------------------ |
 | **Luo**     | Lisää uusia hallintakeinoja                    |
 | **Tuo**     | Massatuonti mallipohjista tai tiedostoista |
-| **Yhdistä** | Linkitä vaatimuksiin ja riskeihin          |
+| **Liitä**   | Liitä vaatimuksiin ja riskeihin          |
 | **Testaa**  | Varmista hallintakeinon tehokkuus              |
 | **Vie**     | Luo hallintakeinoraportteja                    |
 
 ## Seuraavat vaiheet
 
 - [Hallintakeinoen luominen](./creating-controls) — Lisää hallintakeinoja kirjastoosi
-- [Hallintakeinoen yhdistäminen](./mapping) — Linkitä hallintakeinot vaatimuksiin ja riskeihin
+- [Hallintakeinojen liittäminen](./mapping) — Liitä hallintakeinot vaatimuksiin ja riskeihin
 - [Hallintakeinoen testaus](./testing) — Varmista hallintakeinon tehokkuus

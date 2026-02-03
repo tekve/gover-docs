@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Mapping Controls
 
-Connect controls to requirements, risks, and documents to build your compliance picture.
+Map controls to requirements, risks, and documents to build your compliance picture.
 
 ## Why Mapping Matters
 
@@ -59,7 +59,7 @@ AI analyzes text similarity, existing mappings, and industry patterns to make su
 
 ## Mapping to Risks
 
-Link controls to the risks they mitigate:
+Map controls to the risks they mitigate:
 
 1. Open a control
 2. Go to **Risks** tab
@@ -94,7 +94,7 @@ Attach evidence documents to controls:
 
 ## Mapping to Tasks
 
-Link implementation and review tasks:
+Map implementation and review tasks:
 
 1. Open a control
 2. Go to **Tasks** tab

@@ -74,7 +74,7 @@ flowchart LR
 | **Create** | Add new tasks |
 | **Assign** | Assign to team members |
 | **Update Status** | Move through workflow |
-| **Link** | Connect to controls, documents |
+| **Map** | Map tasks to controls and documents |
 | **Comment** | Discuss with team |
 
 ## Next Steps

@@ -67,7 +67,7 @@ Each framework shows its compliance readiness:
 |--------|-------------|
 | **Add Framework** | Import from templates or create custom |
 | **View Requirements** | Browse the requirement hierarchy |
-| **Map Controls** | Link controls to requirements |
+| **Map Controls** | Map controls to requirements |
 | **Track Progress** | Monitor compliance readiness |
 | **Export** | Generate compliance reports |
 

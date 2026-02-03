@@ -25,7 +25,7 @@ AI ehdottaa hallintakeinoja tunnistettujen riskien lieventämiseen.
 ### Vaatimuksista
 
 1. Avaa vaatimus
-2. Klikkaa **Yhdistä hallintakeinot**
+2. Klikkaa **Liitä hallintakeinot**
 3. Klikkaa **AI-ehdotukset**
 4. Tarkista ehdotetut hallintakeinot luottamusluvuineen
 5. Hyväksy tai hylkää kukin ehdotus
@@ -33,14 +33,14 @@ AI ehdottaa hallintakeinoja tunnistettujen riskien lieventämiseen.
 ### Kontrolleista
 
 1. Avaa hallintakeino
-2. Klikkaa **Yhdistä vaatimukset** tai **Yhdistä dokumentit**
+2. Klikkaa **Liitä vaatimukset** tai **Liitä dokumentit**
 3. Klikkaa **AI-ehdotukset**
 4. Tarkista ja hyväksy ehdotukset
 
 ### Dokumenteista
 
 1. Avaa dokumentti
-2. Klikkaa **Yhdistä hallintakeinot**
+2. Klikkaa **Liitä hallintakeinot**
 3. Klikkaa **AI-ehdotukset**
 4. Tarkista ehdotetut hallintakeinot
 

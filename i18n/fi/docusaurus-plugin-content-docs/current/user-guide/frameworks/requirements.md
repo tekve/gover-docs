@@ -13,7 +13,7 @@ Jokainen vaatimus edustaa tiettyä vaatimustenmukaisuusvelvoitetta. Vaatimukset 
 ```mermaid
 flowchart LR
     R[Vaatimus] --> S[Tila]
-    R --> C[Yhdistetyt hallintakeinot]
+    R --> C[Liitetyt hallintakeinot]
     R --> CF[Mukautetut kentät]
     R --> H[Historia]
 ```
@@ -43,19 +43,19 @@ Klikkaa mitä tahansa vaatimusta nähdäksesi sen tiedot:
 | Osio                  | Kuvaus                          |
 | --------------------- | ------------------------------- |
 | **Yleiskatsaus**      | Otsikko, kuvaus ja ohjeistus    |
-| **Hallintakeinot**        | Yhdistetyt hallintakeinot tiloineen |
+| **Hallintakeinot**        | Liitetyt hallintakeinot tiloineen |
 | **Mukautetut kentät** | Lisäseurantakentät              |
 | **Historia**          | Muutosloki ja tarkastuspolku    |
 | **Kommentit**         | Tiimikeskustelut                |
 
-## Hallintakeinoen yhdistäminen vaatimuksiin
+## Hallintakeinojen liittäminen vaatimuksiin
 
 Goverin ydinprosessi on hallintakeinoen yhdistäminen vaatimuksiin.
 
 ### Lisää hallintakeinoyhteys
 
 1. Avaa vaatimus
-2. Klikkaa **Yhdistä hallintakeinot**
+2. Klikkaa **Liitä hallintakeinot**
 3. Valitse:
    - **Olemassa olevat hallintakeinot** — Valitse hallintakeinokirjastostasi
    - **Luo uusi** — Luo hallintakeino ja yhdistä se
@@ -82,8 +82,8 @@ Vaatimukset näyttävät vaatimustenmukaisuuden tilansa:
 
 | Tila                       | Merkitys                                      |
 | -------------------------- | --------------------------------------------- |
-| 🔴 **Ei aloitettu**        | Ei hallintakeinoja yhdistetty                     |
-| 🟡 **Käynnissä**           | Osa kontrolleista yhdistetty, ei valmis       |
+| 🔴 **Ei aloitettu**        | Ei hallintakeinoja liitetty                     |
+| 🟡 **Käynnissä**           | Osa kontrolleista liitetty, ei valmis       |
 | 🟢 **Vaatimustenmukainen** | Kaikki tarvittavat hallintakeinot paikallaan      |
 | ⚪ **Ei sovellettavissa**  | Merkitty ei-sovellettavaksi organisaatiossasi |
 

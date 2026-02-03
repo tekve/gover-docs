@@ -74,7 +74,7 @@ flowchart LR
 | **Luo**          | Lisää uusia tehtäviä                  |
 | **Osoita**       | Määritä tiimin jäsenille              |
 | **Päivitä tila** | Siirrä työnkulussa                    |
-| **Linkitä**      | Yhdistä hallintakeinoihin, dokumentteihin |
+| **Liitä**        | Liitä hallintakeinoihin, dokumentteihin |
 | **Kommentoi**    | Keskustele tiimin kanssa              |
 
 ## Seuraavat vaiheet

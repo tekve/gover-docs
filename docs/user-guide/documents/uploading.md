@@ -84,4 +84,4 @@ Previous versions are retained in history.
 ## Next Steps
 
 - [Document Editor](./editor) — Create documents in Gover
-- [Mapping Documents](./mapping) — Link to controls
+- [Mapping Documents](./mapping) — Map documents to controls

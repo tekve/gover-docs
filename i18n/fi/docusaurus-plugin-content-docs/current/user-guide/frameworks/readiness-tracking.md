@@ -8,7 +8,7 @@ Monitoroi organisaatiosi vaatimustenmukaisuuden edistymistä kaikissa viitekehyk
 
 ## Valmiuden yleiskatsaus
 
-Gover laskee valmiuden sen perusteella, kuinka monella vaatimuksella on yhdistettyjä hallintakeinoja.
+Gover laskee valmiuden sen perusteella, kuinka monella vaatimuksella on liitettyjä hallintakeinoja.
 
 ```mermaid
 pie title Viitekehyksen valmius

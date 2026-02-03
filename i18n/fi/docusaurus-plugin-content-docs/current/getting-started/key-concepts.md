@@ -20,8 +20,8 @@ flowchart TB
     subgraph Riski
         RI[Riskit] --> RA[Riskiarvioinnit]
     end
-    R -.->|yhdistetty| C
-    RA -.->|lievennetty| C
+    R -.->|liitetty| C
+    RA -.->|mitigointi hallintakeinoilla| C
     RA -.->|luo| T
 ```
 
@@ -43,7 +43,7 @@ Viitekehykset sisältävät **vaatimuksia**, jotka on järjestetty hierarkkiseen
 - Sisältää yksilöllisen tunnisteen (esim. "A.5.1.1")
 - Sisältää kuvauksen ja ohjeistuksen
 - Voidaan yhdistää yhteen tai useampaan hallintakeinoin
-- Näyttää valmiustilan yhdistettyjen hallintakeinoen perusteella
+- Näyttää valmiustilan liitettyjen hallintakeinoen perusteella
 
 ## Hallintakeinot
 
@@ -66,6 +66,8 @@ Yksi hallintakeino voi täyttää vaatimuksia useista viitekehyksistä. Esimerki
 - **Jäännösriski** — Riskitaso hallintakeinoen soveltamisen jälkeen
 - **Käsittelysuunnitelma** — Miten riskiä käsitellään (lieventäminen, hyväksyminen, siirtäminen, välttäminen)
 
+Riskinarvioinnit ohjaavat mitigointia, ja mitigointi toteutetaan hallintakeinoilla.
+
 ## Riskiarvioinnit
 
 **Riskiarvioinnit** arvioivat yksittäisiä riskejä mukautettavilla pisteytyskenttillä:
@@ -79,9 +81,12 @@ Yksi hallintakeino voi täyttää vaatimuksia useista viitekehyksistä. Esimerki
 
 **Dokumentit** toimivat todisteina hallintakeinoillesi. Ne voivat olla:
 
+- Politiikkoja ja menettelyjä
+- Todistetietueita
+- Auditointiraportteja
+- Sopimuksia ja sopimusasiakirjoja
 - Ladattuja tiedostoja (PDF, Word jne.)
 - Suoraan Goverissa luotuja
-- Linkitettyjä hallintakeinoihin todisteina
 
 ## Tehtävät
 
