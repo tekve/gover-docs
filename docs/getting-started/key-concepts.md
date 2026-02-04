@@ -117,9 +117,9 @@ Users can have different roles and permissions across workspaces.
 
 ## Content Hub
 
-The **Content Hub** provides:
+The **Content Hub** currently includes:
 
-- **Templates** — Pre-built frameworks and controls
-- **My Content** — Your published content
 - **Discovery** — Community marketplace
 - **Installed** — Content you've added to your workspace
+
+**Templates** and **My Content** are coming later so you can publish your own content.

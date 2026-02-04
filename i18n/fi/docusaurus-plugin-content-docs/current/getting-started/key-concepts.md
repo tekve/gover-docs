@@ -117,9 +117,9 @@ Käyttäjillä voi olla eri rooleja ja oikeuksia eri työtiloissa.
 
 ## Sisältökeskus
 
-**Sisältökeskus** tarjoaa:
+**Sisältökeskuksessa** on tällä hetkellä:
 
-- **Mallit** — Valmiit viitekehykset ja hallintakeinot
-- **Oma sisältö** — Julkaisemasi sisältö
 - **Löydä** — Yhteisön markkinapaikka
 - **Asennetut** — Työtilaasi lisätty sisältö
+
+**Mallit** ja **Oma sisältö** tulevat myöhemmin, jotta voit julkaista omaa sisältöä.
